@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Stdiaz91/PreEntrega1-DiazSebastian/static/css/main.a4a54d8c.css",
+    "main.js": "/Stdiaz91/PreEntrega1-DiazSebastian/static/js/main.771765f6.js",
+    "static/media/pistol-bersaTPR9-pavon.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/pistol-bersaTPR9-pavon.fbbf138f5fdbca16aeb2.png",
+    "static/media/revolver-taurus086cal38.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/revolver-taurus086cal38.6945030ba525adcb150f.png",
+    "static/media/pistola-detonadora-glock-17-gen-5-9-mm.jpg": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/pistola-detonadora-glock-17-gen-5-9-mm.17f9fac6c9cdb49961cf.jpg",
+    "static/media/25326435559_49f91febc4_b.jpg": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/25326435559_49f91febc4_b.5f9abc36d3a35c2ee76e.jpg",
+    "static/media/shotgun-hatsan-cal12-escort20.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/shotgun-hatsan-cal12-escort20.12b4720bf14d4e5da3f8.png",
+    "static/media/r-15-assault-rifle-2013-rifle-gun-02-18-assault.jpg": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/r-15-assault-rifle-2013-rifle-gun-02-18-assault.91ae22e2f312cabd22f1.jpg",
+    "static/media/Wilson-Combat-Magazine-Fed-Shotgun-M.F.S-1.jpg": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/Wilson-Combat-Magazine-Fed-Shotgun-M.F.S-1.f7ebe17a9382c95b4da5.jpg",
+    "static/media/logo.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/logo.79e9ea431727078f43b8.png",
+    "static/media/all-products.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/all-products.2725268273547fc83ec2.png",
+    "static/media/revolver.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/revolver.1a2f2c9aae91ee84ab0a.png",
+    "static/media/shotgun.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/shotgun.51e53c219309546008fb.png",
+    "static/media/carabine.png": "/Stdiaz91/PreEntrega1-DiazSebastian/static/media/carabine.7004b57506d5419ece92.png",
+    "index.html": "/Stdiaz91/PreEntrega1-DiazSebastian/index.html",
+    "main.a4a54d8c.css.map": "/Stdiaz91/PreEntrega1-DiazSebastian/static/css/main.a4a54d8c.css.map",
+    "main.771765f6.js.map": "/Stdiaz91/PreEntrega1-DiazSebastian/static/js/main.771765f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4a54d8c.css",
+    "static/js/main.771765f6.js"
+  ]
+}

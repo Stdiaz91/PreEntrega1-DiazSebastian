@@ -1,0 +1,27 @@
+footer{
+  display: flex;
+  flex-direction: column;
+  margin-bottom: -20px;
+}
+
+.title__footer{
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--font-footer);
+    margin-bottom: .2rem;
+  }
+  
+  .social__networks{
+    font-size: 1.5rem;
+    color: var(--font-footer);
+    cursor: pointer;
+  }
+  
+  .bi-whatsapp{
+    padding-right: .4rem;
+  }
+  
+  .bi-facebook{
+    padding-right: .4rem;
+  }
+  

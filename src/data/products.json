@@ -1,0 +1,2360 @@
+[{
+    "id": 1,
+    "image": "../assets/pistols/bersa/cal22/Pistola_Bersa_Thunder_22-6-cal22.png",
+    "title": "Pistola Bersa Thunder 22-6",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 22",
+    "caliber": "Calibre .22",
+    "price": 140000,
+    "description": "La pistola Bersa Thunder 22-6 es la pistola semiautomática de calibre más pequeño de la compañía y está fabricada con el mismo cuidado y atención al detalle que todos los modelos de Bersa. Esta pistola ligera y de bajo retroceso está específicamente diseñada para aplicación deportiva y tiro de precisión. Su longitud de cañón de 150 mm le permite una gran versatilidad al momento de elegir munición de calibre .22. La Thunder 22-6 es altamente confiable y recomendable. Y como variación en el largo del cañón encontramos la Thunder 22-X.",
+    "stock": true,
+    "available": 8,
+    "characteristics":{
+        "charger": "2 unidades de 10 disparos",
+        "action": "Simple y doble",
+        "canyon": "Estriado profundo de 150mm con un orificio pulido",
+        "weight": "535 gr",
+        "security": "Ofrece seguridad manual y percutor",
+        "funcionality": "Cañón móvil"
+    }
+},
+{
+    "id": 2, 
+    "image": "../assets/pistols/bersa/cal22/Pistola_Bersa_Thunder_22_Dos_Tonos-cal22.png",
+    "title": "Pistola Bersa Thunder 22 Dos Tonos",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 22",
+    "caliber": "Calibre .22",
+    "price": 142000,
+    "description": "La pistola Bersa Thunder 22 Dos tonos es la pistola semiautomática de calibre más pequeño de la compañía y está fabricada con el mismo cuidado y atención al detalle que todos los modelos de Bersa. Esta pistola ligera y de bajo retroceso es una ventaja para la colección de armas de cualquier persona.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "2 unidades de 10 disparos",
+        "action": "Simple y doble",
+        "canyon": "Estriado profundo de 150mm con un orificio pulido",
+        "weight": "535 gr",
+        "security": "Ofrece seguridad manual y percutor",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 3, 
+    "image": "../assets/pistols/bersa/cal22/Pistola_Bersa_Thunder_22_Niquelada-cal22.png",
+    "title": "Pistola Bersa Thunder 22 Niquelada",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 22",
+    "caliber": "Calibre .22",
+    "price": 142000,
+    "description": "La pistola Bersa Thunder 22 Niquelada es la pistola semiautomática de calibre más pequeño de la compañía y está fabricada con el mismo cuidado y atención al detalle que todos los modelos de Bersa. Esta pistola ligera y de bajo retroceso es una ventaja para la colección de armas de cualquier persona.",
+    "stock": true,
+    "available": 5,
+    "characteristics":{
+        "charger": "2 unidades de 10 disparos",
+        "action": "Simple y doble",
+        "canyon": "Estriado profundo de 150mm con un orificio pulido",
+        "weight": "535 gr",
+        "security": "Ofrece seguridad manual y percutor",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 4, 
+    "image": "../assets/pistols/bersa/cal22/Pistola_Bersa_Thunder_22_Pavón-cal22.png",
+    "title": "Pistola Bersa Thunder 22 Pavón",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 22",
+    "caliber": "Calibre .22",
+    "price": 142000,
+    "description": "La Bersa Thunder 22 es la pistola semiautomática de calibre más pequeño de la compañía y está fabricada con el mismo cuidado y atención al detalle que todos los modelos de Bersa. Esta pistola ligera y de bajo retroceso es una ventaja para la colección de armas de cualquier persona.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "2 unidades de 10 disparos",
+        "action": "Simple y doble",
+        "canyon": "Estriado profundo de 150mm con un orificio pulido",
+        "weight": "535 gr",
+        "security": "Ofrece seguridad manual y percutor",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 5, 
+    "image": "../assets/pistols/bersa/cal22/Pistola_Bersa_Thunder_22_X-cal22.png",
+    "title": "Pistola Bersa Thunder 22 X",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 22",
+    "caliber": "Calibre .22",
+    "price": 138000,
+    "description": "La pistola Bersa Thunder 22 X es la pistola semiautomática de calibre más pequeño de la compañía y está fabricada con el mismo cuidado y atención al detalle que su antecesora, la Thunder 22-4. Esta pistola ligera y de bajo retroceso es una ventaja para la colección de armas de cualquier persona. Esta pistola está diseñada específicamente para aplicación deportiva y tiro de precisión, dado su diseño equilibrado, moderado retroceso y a la combinación de un largo de cañón y radio de miras que permite excelentes agrupaciones.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "2 unidades de 10 disparos",
+        "action": "Simple y doble",
+        "canyon": "Estriado profundo de 150mm con un orificio pulido",
+        "weight": "560 gr",
+        "security": "Ofrece seguridad manual y percutor",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 6, 
+    "image": "../assets/pistols/bersa/cal380/Bersa 380 Firestorm-cal380.png",
+    "title": "Pistola Bersa Thunder 380 Firestorm",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "380 Firestorm",
+    "caliber": "Calibre .380 ACP",
+    "price": 132000,
+    "description": "La Firestorm .380 ofrece numerosas características valiosas: precisión; confiabilidad y versatilidad en un diseño liviano y compacto. Se ha ganado una reputación mundial de calidad y es verdaderamente una de las mejores compras de rendimiento por precio del mercado. Su peso ligero su estructura pequeña y su capacidad ideal se combinan con la fiabilidad y precisión probadas por el tiempo de Bersa para hacer la Firestorm .380 una excelente opción.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Simple y doble",
+        "canyon": "35 mm",
+        "weight": "567 gr",
+        "security": "Ofrece seguridad manual y percutor",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 7, 
+    "image": "../assets/pistols/bersa/cal380/Bersa-Thunder-380-Pavon-cal380.png",
+    "title": "Pistola Bersa Thunder 380 Pavón",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 380",
+    "caliber": "Calibre .380 ACP",
+    "price": 126000,
+    "description": "Diseño compacto, bajo peso, precisión y confiabilidad absolutas.Habiéndose convertido en ícono en su calibre y siendo la número uno en su segmento en los más importantes mercados del mundo, las Thunder 380 poseen un prestigio ganado a lo largo de su vida en servicio, otorgando la mejor relación precio-prestaciones del mercado.Su excelente equilibrio entre valor y prestaciones la convierten en la opción ideal cuando se buscan las menores dimensiones y una capacidad razonable manteniendo la mayor confiabilidad y precisión.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Simple y doble",
+        "canyon": "Largo del cañón 90 mm",
+        "weight": "560 gr",
+        "security": "De llave y seguro externo y manual (con decocker)",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 8, 
+    "image": "../assets/pistols/bersa/cal380/bersa-thunder-rosegold-cal380.png",
+    "title": "Pistola Bersa Thunder 380 Rose Gold",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 380",
+    "caliber": "Calibre .380 ACP",
+    "price": 136000,
+    "description": "Marco en color Rosa Gold con corredera y destaques en pavón Diseño compacto, bajo peso, precisión y confiabilidad absolutas Habiéndose convertido en ícono en su calibre y siendo la número uno en su segmentoen los más importantes mercados del mundo, Las Thunder 380 poseen un prestigio ganado a lo largo de su vida en servicio, otorgando la mejor relación precio-prestaciones del mercado. Su excelente equilibrio entre valor y prestaciones la convierten en la opción ideal cuando se buscan las menores dimensiones y una capacidad razonable manteniendo la mayor confiabilidad y precisión.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Simple y doble",
+        "canyon": "Largo del cañón 90 mm",
+        "weight": "567 gr",
+        "security": "De llave y seguro externo y manual (con decocker)",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 9, 
+    "image": "../assets/pistols/bersa/cal380/Pistola Bersa Thunder 380 X-cal380.png",
+    "title": "Pistola Bersa Thunder 380 X",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 380",
+    "caliber": "Calibre .380 ACP",
+    "price": 140000,
+    "description": "Con corredera y destaques en pavón Diseño compacto, bajo peso, precisión y confiabilidad absolutas Habiéndose convertido en ícono en su calibre y siendo la número uno en su segmentoen los más importantes mercados del mundo, Las Thunder 380 poseen un prestigio ganado a lo largo de su vida en servicio, otorgando la mejor relación precio-prestaciones del mercado. Su excelente equilibrio entre valor y prestaciones la convierten en la opción ideal cuando se buscan las menores dimensiones y una capacidad razonable manteniendo la mayor confiabilidad y precisión.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Simple y doble",
+        "canyon": "Largo del cañón 90 mm",
+        "weight": "567 gr",
+        "security": "De llave y seguro externo y manual (con decocker)",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 10, 
+    "image": "../assets/pistols/bersa/cal380/Pistola Bersa TPR380-cal380.png",
+    "title": "Pistola Bersa TPR380",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 380",
+    "caliber": "Calibre .380 ACP",
+    "price": 138000,
+    "description": "La Bersa TPR380 es una pistola semiautomática de acción doble/simple calibre .380. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 380 Pro, con resultados sobresalientes.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Simple y doble",
+        "canyon": "Largo del cañón 90 mm",
+        "weight": "550 gr",
+        "security": "De llave y seguro externo y manual (con decocker)",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 11, 
+    "image": "../assets/pistols/bersa/cal380/Pistola_Bersa_Thunder_380CC niquelada-cal380.png",
+    "title": "Pistola Bersa Thunder 380CC niquelada",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "Thunder 380",
+    "caliber": "Calibre .380 ACP",
+    "price": 143000,
+    "description": "Sumamente compacta, la 380CC permite mantener un excelente control durante el disparo, presentando además un novedoso indicador de recámara cargada, mayor capacidad y miras integradas a la corredera, detalles altamente convenientes al momento de evaluar su futura elección. SEGUROS: manual por palanca de desmartillado. Automático de cola del disparador que bloquea el percutor. Seguro automático al quitar el cargador del arma. De almacenaje con llave que bloquea la cola del disparador y la posibilidad de desarmado, (indirectamente mantiene accionado el seguro automático de cola del disparador).",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Simple y doble",
+        "canyon": "81 mm, 6 estrías, 254 mm de paso derecho",
+        "weight": "499 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 12, 
+    "image": "../assets/pistols/bersa/cal40/Pistola_Bersa_BP40CC_Pavón-cal40.png",
+    "title": "Pistola Bersa BP40CC Pavón",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "BP40CC",
+    "caliber": "Calibre .40 S&W",
+    "price": 320000,
+    "description": "La BP40CC Pavonada es una pistola calibre 40 S&W fabricada en Argentina, con empuñadura de polímero de alta resistencia, chasis autoportante que simplifica la limpieza y mantenimiento, cañón poligonal e indicador de recámara cargada sobre la corredera, características que la sitúan entre las pistolas más modernas del mundo, diseñada y desarrollada con la más avanzada tecnología.",
+    "stock": true,
+    "available": 7,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "82 mm, 6 estrías hélice derecha",
+        "weight": "600 gr",
+        "security": "bloqueo de percutor, gatillo pasivo",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 13, 
+    "image": "../assets/pistols/bersa/cal40/Pistola_Bersa_TPR40_Duotono-cal40.png",
+    "title": "Pistola Bersa TPR40 Duotono",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "BP40CC",
+    "caliber": "Calibre .40 S&W",
+    "price": 328000,
+    "description": "La Bersa TPR40 Duotono es una pistola semiautomática de acción doble/simple calibre .40 S&W. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 40 Pro, con resultados sobresalientes. Como variantes de color encontrarás la TPR40 Pavonada y con un diseño compacto la TPR40c Pavonada y Dos Tonos, conservando la alta capacidad y su característica de ser totalmente ambidiestra, este diseño surge para continuar siendo una referencia en armas de servicio y de uso deportivo.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "De 107,7 mm micro pulido con estriado profundo y afilado",
+        "weight": "872 gr",
+        "security": "1 manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 14, 
+    "image": "../assets/pistols/bersa/cal40/Pistola_Bersa_TPR40_Pavón-cal40.png",
+    "title": "Pistola Bersa TPR40 Pavón",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "BP40CC",
+    "caliber": "Calibre .40 S&W",
+    "price": 320000,
+    "description": "La Bersa TPR40 es una pistola semiautomática de acción doble/simple calibre .40 S&W. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 40 Pro, con resultados sobresalientes. Como variantes de color encontrarás la TPR40 Dos Tonos y con un diseño compacto la TPR40c Pavonada y Dos Tonos, conservando la alta capacidad y su característica de ser totalmente ambidiestra, este diseño surge para continuar siendo una referencia en armas de servicio y de uso deportivo.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "De 107,7 mm micro pulido con estriado profundo y afilado",
+        "weight": "872 gr",
+        "security": "1 manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 15, 
+    "image": "../assets/pistols/bersa/cal45/Pistola_Bersa_TPR45C_Duotono-cal45.png",
+    "title": "Pistola Bersa TPR45C Duotono",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR45C",
+    "caliber": "Calibre .45",
+    "price": 350000,
+    "description": "La TPR45C es una pistola semiautomática de doble/simple acción que surge, junto con la Thunder 9 Pro, de la evolución de la reconocida Thunder 9 como lógica actualización de una arma de servicio del siglo XXI.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "90 mm, 6 estrías, 407 mm de paso derecho",
+        "weight": "785 gr",
+        "security": "1 manual y 2 automáticos" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 16, 
+    "image": "../assets/pistols/bersa/cal45/pistola-tpr-45-c-removebg-preview.png",
+    "title": "Pistola Bersa TPR45C Pavón",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR45C",
+    "caliber": "Calibre .45",
+    "price": 352000,
+    "description": "La TPR45C es una pistola semiautomática de doble/simple acción que surge, junto con la Thunder 9 Pro, de la evolución de la reconocida Thunder 9 como lógica actualización de una arma de servicio del siglo XXI.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "7 + 1",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "90 mm, 6 estrías, 407 mm de paso derecho",
+        "weight": "785 gr",
+        "security": "1 manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 17, 
+    "image": "../assets/pistols/bersa/cal9mm/bersa-TPR9pavon-cal9mm.png",
+    "title": "Pistola Bersa TPR9 Pavón",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR9",
+    "caliber": "Calibre 9 mm",
+    "price": 271000,
+    "description": "La Bersa TPR 9 es una pistola de calibre 9mm de fabricación nacional (Argentina), con excelentes referencias y renombre a nivel mundial y muy usada en el ámbito deportivo y de seguridad. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 9 Pro, con resultados sobresalientes.",
+    "stock": true,
+    "available": 10,
+    "characteristics":{
+        "charger": "2 unidades de 17 disparos",
+        "action": "Doble (para el primer disparo) y simple con martillo externo",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "830 gr",
+        "security": "1 seguro manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 18, 
+    "image": "../assets/pistols/bersa/cal9mm/Pistola Bersa TPR9 T-cal9mm.png",
+    "title": "Pistola Bersa TPR9 T",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR9",
+    "caliber": "Calibre 9 mm",
+    "price": 308000,
+    "description": "La Bersa TPR9 T semiautomática de 9mm con doble/simple acción fue creada y diseñada por y para tiradores deportivos. Con avances y nuevas características como el resultado de la experiencia con estos profesionales del más alto nivel y siendo testeada bajo las más adversas condiciones dando como resultado una precisión y performance única. Es un arma de primera calidad, construida con aceros, aluminios y plásticos especiales definidos a nivel internacional como apropiados y específicos para armas de fuego, creada y diseñada para los amantes del tiro. La principal diferencia que tiene este modelo con la TPR9 estándar es que tiene una pulgada más de cañón, y por tanto también de corredera. Esto hace que al tener una pulgada más de cañón la pistola sea más precisa, y al tener más peso de corredera en la parte frontal aporte un mejor balance y estabilidad en el agarre.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "2 unidades de 17 disparos",
+        "action": "Doble (para el primer disparo) y simple con martillo externo",
+        "canyon": "de acero de126mm, 6 estrías a la derecha 254mm de paso",
+        "weight": "872 gr",
+        "security": "1 manual decocker y dos automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 19, 
+    "image": "../assets/pistols/bersa/cal9mm/Pistola Bersa TPR9C Pavón.cal9mm.png",
+    "title": "Pistola Bersa TPR9C Pavón",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR9",
+    "caliber": "Calibre 9 mm",
+    "price": 284000,
+    "description": "La Bersa TPR 9C es una pistola de calibre 9mm de fabricación nacional (Argentina), con excelentes referencias y renombre a nivel mundial y muy usada en el ámbito deportivo y de seguridad. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 9 Compact Pro, con resultados sobresalientes.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "2 unidades de 13 disparos",
+        "action": "Doble (para el primer disparo) y simple con martillo externo",
+        "canyon": "85,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "790 gr",
+        "security": "1 seguro manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 20, 
+    "image": "../assets/pistols/bersa/cal9mm/Pistola_Bersa_TPR9_FDE_Arena-cal9mm-cal9mm.png",
+    "title": "Pistola Bersa TPR9 FDE Arena",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR9",
+    "caliber": "Calibre 9 mm",
+    "price": 290000,
+    "description": "La Bersa TPR 9 es una pistola de calibre 9mm de fabricación nacional (Argentina), con excelentes referencias y renombre a nivel mundial y muy usada en el ámbito deportivo y de seguridad. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 9 Pro, con resultados sobresalientes.",
+    "stock": true,
+    "available": 5,
+    "characteristics":{
+        "charger": "2 unidades de 17 disparos",
+        "action": "Doble (para el primer disparo) y simple con martillo externo",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "830 gr",
+        "security": "1 manual decocker y dos automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 21, 
+    "image": "../assets/pistols/bersa/cal9mm/Pistola_Bersa_TPR9_X_Cerakote-cal9mm.png",
+    "title": "Pistola Bersa TPR9 Cerakote",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR9",
+    "caliber": "Calibre 9 mm",
+    "price": 290000,
+    "description": "La Bersa TPR 9 es una pistola de calibre 9mm de fabricación nacional (Argentina), con excelentes referencias y renombre a nivel mundial y muy usada en el ámbito deportivo y de seguridad. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 9 Pro, con resultados sobresalientes.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "2 unidades de 17 disparos",
+        "action": "Doble (para el primer disparo) y simple con martillo externo",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "830 gr",
+        "security": "1 manual decocker y dos automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 22, 
+    "image": "../assets/pistols/bersa/cal9mm/Pistola_Bersa_TPR9_X-cal9mm.png",
+    "title": "Pistola Bersa TPR9 X",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Bersa",
+    "model": "TPR9",
+    "caliber": "Calibre 9 mm",
+    "price": 290000,
+    "description": "La Bersa TPR9 X es una pistola de calibre 9mm de fabricación nacional (Argentina), con excelentes referencias y renombre a nivel mundial y muy usada en el ámbito deportivo y de seguridad. Su diseño surge de los cambios y modificaciones realizadas a la serie de pistolas Bersa Thunder 9 Pro, con resultados sobresalientes. Cuenta con un cañón de 126 mm para mayor precisión.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "2 unidades de 17 disparos",
+        "action": "Doble (para el primer disparo) y simple con martillo externo",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "830 gr",
+        "security": "1 manual decocker y dos automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 22, 
+    "image": "../assets/pistols/glock/cal22/Pistola_Glock_44_Calibre_22-removebg-preview.png",
+    "title": "Pistola Glock 44",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G44",
+    "caliber": "Calibre 22LR",
+    "price": 538000,
+    "description": "Una vez que comienzas con la perfección, te quedas con la perfección. La G44 es la pistola ideal para iniciar o mejorar tu experiencia como tirador. El diseño innovador de la corredera híbrida de acero-polímero proporciona una pistola liviana y de bajo retroceso para un control óptimo. La Glock 44 es lo que muchos estábamos esperando para practicar con una de las mejores marcas a nivel mundial, y a un bajo costo de munición. Con maletín y cargador adicional.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 10 + 1",
+        "action": "Safe Action",
+        "canyon": "102.5mm",
+        "weight": "595 gr",
+        "security": "Triple seguro",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 23, 
+    "image": "../assets/pistols/glock/cal380/G42_Gen3-107-cal380-removebg-preview.png",
+    "title": "Pistola Glock 42",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G42",
+    "caliber": "Calibre .380 ACP",
+    "price": 548000,
+    "description": "La nueva Glock 42 380 está diseñada para la resistencia de todas las rutinas de entrenamiento. Es la pistola de menor que tamaño que Glock ha diseñado, esta característica, hace que la G42 sea ideal para tiradores que tengan las manos pequeñas, además su diseño permite portar el arma de forma totalmente oculta.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "Capacidad 6",
+        "action": "Safe Action",
+        "canyon": "82.5mm",
+        "weight": "390 gr",
+        "security": "Triple seguro",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 24, 
+    "image": "../assets/pistols/glock/cal380/glock25-cal380-removebg-preview.png",
+    "title": "Pistola Glock 25",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G25",
+    "caliber": "Calibre .380 ACP",
+    "price": 556000,
+    "description": "Debido a sus pequeñas dimensiones, iguales a las del GLOCK 19, el GLOCK 25 en el calibre .380 de bajo retroceso puede llevarse cómodamente oculto.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 15",
+        "action": "Safe Action",
+        "canyon": "102 mm",
+        "weight": "390 gr",
+        "security": "Triple seguro",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 25, 
+    "image": "../assets/pistols/glock/cal40/glock_24_cal40-removebg-preview.png",
+    "title": "Pistola Glock 24 C Gen 3",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G24",
+    "caliber": "Calibre .40 S&W Auto",
+    "price": 620000,
+    "description": "El diseño largo de la corredera y el caño, combinado con el potente calibre 40 S&W de la GLOCK 24C, hacen de esta GLOCK una excelente opción para multiples actividades de tiro deportivo. Tienen un sistema de compensación integrado que reduce el movimiento de la boca del cañón y el retroceso que ayuda en la adquisición más rápida del objetivo de disparo.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 15",
+        "action": "Safe Action",
+        "canyon": "153 mm",
+        "weight": "820g",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 26, 
+    "image": "../assets/pistols/glock/cal40/glock_27_cal40-removebg-preview.png",
+    "title": "Pistola Glock 27",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G27",
+    "caliber": "Calibre .40 S&W",
+    "price": 614000,
+    "description": "Pequeña, liviana, precisa y poderosa: la Glock 27 es el arma de refuerzo para cualquier eventualidad. Es muy apreciada para los servicios de patrullaje policial a causa de sus dimensiones confortables y las conocidas ventajas de la familia de pistolas Glock, por lo que muchos departamentos de policía proveen esta pistola subcompacta .40 como arma oficial de refuerzo. Su diseño liso y carente de protuberancias hace prácticamente imposible engancharse en la ropa al desenfundar el arma. Cargador de 9 tiros, opcional de 13/15/22",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "Capacidad 12",
+        "action": "Safe Action",
+        "canyon": "87 mm",
+        "weight": "620 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 27, 
+    "image": "../assets/pistols/glock/cal40/Glock_35_cal40-LG-1600x1067-removebg-preview.png",
+    "title": "Pistola Glock 35 40SW Gen 4",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G35",
+    "caliber": "Calibre .40 S&W",
+    "price": 718000,
+    "description": "Con su cañon extendido y su línea de visión extralarga, la GLOCK 35 permite patrones precisos de impactos incluso durante el disparo rápido. Esto ha convertido al GLOCK 35 en un modelo generalizado entre los miembros de la comunidad de tiro práctico.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "Capacidad 15",
+        "action": "Safe Action",
+        "canyon": "135 mm",
+        "weight": "780 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 28, 
+    "image": "../assets/pistols/glock/cal40/glock23c_cal40-removebg-preview.png",
+    "title": "Pistola Glock 23C 40SW Gen 3",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G23",
+    "caliber": "Calibre .40 S&W",
+    "price": 556000,
+    "description": "Dimensiones compactas para portación a la vista o discreta, un peso mínimo, pero igualmente una alta capacidad de cargador en calibre .40. Esto y la mundialmente conocida confiabilidad de la pistola Glock, demostrado con pruebas y generalizado uso de los organismos de los EE.UU. fueron los argumentos decisivos para el F.B.I. y numerosos departamentos de policía para la incorporación de la pistola Glock 23 como arma de reglamento. Cargador con 13 municiones, opcional en 10, 15 o 22.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 13",
+        "action": "Safe Action",
+        "canyon": "102 mm",
+        "weight": "670 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 29, 
+    "image": "../assets/pistols/glock/cal40/Pistola_Glock_G22_Gen_4_Calibre_40_S_W-removebg-preview.png",
+    "title": "Pistola Glock 22C 40SW Gen 4",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G22",
+    "caliber": "Calibre .40 S&W",
+    "price": 604000,
+    "description": "En esta nueva Generación de pistolas Glock podremos encontrar novedades como los “Back Straps”, suplementos para engrosar el tamaño del frame disponible en 2 tamaños. Retén de cargador ambidiestro. Resorte recuperador con guía de corredera combinado para un accionamiento suave",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 15",
+        "action": "Safe Action",
+        "canyon": "114 mm.",
+        "weight": "725gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 30, 
+    "image": "../assets/pistols/glock/cal45/glock21sf-cal45-removebg-preview.png",
+    "title": "Pistola Glock 21SF Gen 4",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 21",
+    "caliber": "Calibre .45",
+    "price": 701000,
+    "description": "La pistola semiautomática Glock 21 Gen 4, calibre 45  y capacidad de 13 tiros (dos cargadores), se destaca por su precisión, su recámara bloqueada y su retroceso liviano. Cuenta con sistema modular Back Strap, el cual permite customizar e intercambiar el grip, variando su tamaño, de modo que podrás adecuarlo a la mano del tirador y otorgarle más comodidad en el agarre. También tiene un retén de cargador reversible, lo cual quiere decir que puede ser utilizado tanto por tiradores diestros como por tiradores zurdos. A su vez, el resorte recuperador con guía de corredera combinado, permiten un accionamiento suave y hacen de está pistola una excelente alternativa. Su estructura está fabricada en polímero y plástico muy resistente y conservando un aspecto sofisticado.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "13 + 1",
+        "action": "Safe Action",
+        "canyon": "117 mm",
+        "weight": "780 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 31, 
+    "image": "../assets/pistols/glock/cal45/glock_21-cal45-removebg-preview.png",
+    "title": "Pistola Glock 21 Gen 4",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 21",
+    "caliber": "Calibre .45",
+    "price": 701000,
+    "description": "La pistola semiautomática Glock 21 Gen 4, calibre 45  y capacidad de 13 tiros (dos cargadores), se destaca por su precisión, su recámara bloqueada y su retroceso liviano. Cuenta con sistema modular Back Strap, el cual permite customizar e intercambiar el grip, variando su tamaño, de modo que podrás adecuarlo a la mano del tirador y otorgarle más comodidad en el agarre. También tiene un retén de cargador reversible, lo cual quiere decir que puede ser utilizado tanto por tiradores diestros como por tiradores zurdos. A su vez, el resorte recuperador con guía de corredera combinado, permiten un accionamiento suave y hacen de está pistola una excelente alternativa. Su estructura está fabricada en polímero y plástico muy resistente y conservando un aspecto sofisticado.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "13 + 1",
+        "action": "Safe Action",
+        "canyon": "117 mm",
+        "weight": "780 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 32, 
+    "image": "../assets/pistols/glock/cal45/glock30-cal45-removebg-preview.png",
+    "title": "Pistola Glock 30S",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 30",
+    "caliber": "Calibre .45 ACP",
+    "price": 679000,
+    "description": "La pistola GLOCK 30S combina con éxito un cuadro corto (SF) con un tamaño de agarre reducido y un deslizamiento más delgado (S), con el poderoso calibre 45 Auto. Su diseño compacto y su operación simple permiten un dibujo suave en una pistola calibre 45 semiautomática que se adapta a las manos de casi cualquier usuario.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "13 + 1",
+        "action": "Safe Action",
+        "canyon": "117 mm",
+        "weight": "750 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 33, 
+    "image": "../assets/pistols/glock/cal45/glock_30sf-cal45-removebg-preview.png",
+    "title": "Pistola Glock 30SF",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 30",
+    "caliber": "Calibre .45 ACP",
+    "price": 690000,
+    "description": "La pistola GLOCK 30SF combina con éxito un cuadro corto (SF) con un tamaño de agarre reducido y un deslizamiento más delgado (S), con el poderoso calibre 45 Auto. Su diseño compacto y su operación simple permiten un dibujo suave en una pistola calibre 45 semiautomática que se adapta a las manos de casi cualquier usuario.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "13 + 1",
+        "action": "Safe Action",
+        "canyon": "117 mm",
+        "weight": "750 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 34, 
+    "image": "../assets/pistols/glock/cal9mm/Pistola_Glock_17_Cal_9mm_Gen_5_Coyote_cal9mm.png",
+    "title": "Pistola Glock 17 Coyote Gen 5",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 17",
+    "caliber": "Calibre 9 mm",
+    "price": 702000,
+    "description": "Esta pistola, doptada por el ejército francés recientemente, posee un revestimiento de PVD en acabado negro mate en su corredera, miras metálicas luminiscentes “Glock Steel” y, además, tiene expulsión ambidiestra del cargador.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "capacidad 17",
+        "action": "Safe Action",
+        "canyon": "114 mm",
+        "weight": "711 g",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 35, 
+    "image": "../assets/pistols/glock/cal9mm/Pistola_Glock_9mm_19_Gen_3_cal9mm-removebg-preview.png",
+    "title": "Pistola Glock 19 Gen 3",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 19",
+    "caliber": "Calibre 9 mm",
+    "price": 690000,
+    "description": "Las dimensiones reducidas respecto del tamaño de la pistola estándar, hacen que la GLOCK 19 sea de múltiple utilidad. Con el probado calibre 9x19 está muy difundida entre los organismos de seguridad de todo el mundo.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "capacidad 15",
+        "action": "Safe Action",
+        "canyon": "102 mm",
+        "weight": "690 g",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 36, 
+    "image": "../assets/pistols/glock/cal9mm/Pistola_Glock_9mm_43X_Gen5_Dos_Tonos-cal9mm.png",
+    "title": "Pistola Glock 43X Gen 5",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 43",
+    "caliber": "Calibre 9 mm",
+    "price": 720000,
+    "description": "La GLOCK G43X negra es una pistola semiautomática de 9 mm con acción segura al igual que todos los modelos de Glock. Se podría decir que es un híbrido entre la Glock 48 y la pistola de 9 mm más pequeña que ofrece la firma, la Glock 43. La G43X, junto con la G48, es una de las nuevas pistolas «estilizadas» de Glock diseñadas para llevarlas ocultas. La intención de Glock fue aumentar la capacidad de la G43 sin cambiar fundamentalmente la capacidad de ocultación de la Glock 43.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "10 disparos",
+        "action": "Safe Action",
+        "canyon": "Glock Marksman de 87 mm",
+        "weight": "785 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 37, 
+    "image": "../assets/pistols/glock/cal9mm/Pistola_Glock_26_Gen_5_cal9mm.png",
+    "title": "Pistola Glock 26 Gen 5",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 26",
+    "caliber": "Calibre 9 mm",
+    "price": 715000,
+    "description": "La Glock 26 también se conoce como «Baby Glock» debido a su pequeño tamaño y se vende en 3 generaciones diferentes, Gen 3, Gen 4 y Gen 5. La Glock 26 es de calibre 9 mm para disparos rápidos y precisos cuando más los necesita. Se recomienda la Glock 26 como arma de respaldo para los policías o aquellos portadores que llevan la Glock 19 o la Glock 22 como pistola de servicio, ya que el 26 se puede llevar fácilmente en el tobillo para una transición perfecta entre su pistola de transporte principal y su respaldo.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "10 disparos",
+        "action": "Safe Action",
+        "canyon": "Glock Marksman de 87 mm",
+        "weight": "785 gr",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 38, 
+    "image": "../assets/pistols/glock/cal9mm/Pistola_Glock_G45_Gen_5_Calibre_9_mm.png",
+    "title": "Pistola Glock 45 Gen 5",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "G 45",
+    "caliber": "Calibre 9 mm",
+    "price": 700000,
+    "description": "La G45 de Glock es una pistola compacta crossover semiautomática de calibre 9 mm. Combina una corredera compacta con un marco de tamaño completo y tiene todos los beneficios de un modelo Gen5. Utiliza el diseño y la ingeniería que GLOCK desarrolló para su pistola militar (G19X), combinado con Operator y Law en todo el mundo.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "17 disparos",
+        "action": "Safe Action",
+        "canyon": "Glock Marksman de 87 mm",
+        "weight": "785 gr",
+        "security": "Safe action,Trigger Acction y Drop Action",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 39, 
+    "image": "../assets/pistols/taurus/cal22/pistola-tx22-cal22-removebg-preview.png",
+    "title": "Pistola Taurus TX22",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "TX",
+    "caliber": "Calibre 22LR",
+    "price": 438000,
+    "description": "Diseñada para brindar la mejor precisión y confiabilidad de su clase, esta pistola deportiva de polímero de percusión anular dispara y se siente como un modelo de competencia personalizado, sin costosas actualizaciones o modificaciones. Desde el tirón corto y suave de su Taurus Performance Trigger System (PTS) diseñado con precisión hasta la comodidad incorporada de su agarre ergonómico, el TaurusTX ™ 22 es un tamaño completo impulsado por el rendimiento que está listo para competir.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "capacidad 15 + 1",
+        "action": "Acción única",
+        "canyon": "104 mm",
+        "weight": "490.4 g",
+        "security": "Seguridad manual",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 40, 
+    "image": "../assets/pistols/taurus/cal380/58hc-plus-cal380-removebg-preview.png",
+    "title": "Pistola Taurus 58HC Plus",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "58HC",
+    "caliber": "Calibre .380 ACP",
+    "price": 450000,
+    "description": "La pistola Taurus 58 HC Plus es una pistola de acción simple o doble. Su audaz diseño viene con un candado manual ambidiestro y un desactivador de perros.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "Capacidad 19 + 1",
+        "action": "Simple y doble",
+        "canyon": "81 mm, 6 estrías, 254 mm de paso derecho",
+        "weight": "499 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 41, 
+    "image": "../assets/pistols/taurus/cal380/59s-cal380-removebg-preview.png",
+    "title": "Pistola Taurus 59S",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "59S",
+    "caliber": "Calibre .380 ACP",
+    "price": 459000,
+    "description": "La pistola Taurus 59 es una pistola de acción simple o doble. Su audaz diseño viene con un candado manual ambidiestro y un desactivador de perros.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 19 + 1",
+        "action": "Simple y doble",
+        "canyon": "81 mm, 6 estrías, 254 mm de paso derecho",
+        "weight": "499 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 42, 
+    "image": "../assets/pistols/taurus/cal380/838c-cal380-removebg-preview.png",
+    "title": "Pistola Taurus 838C",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "838C",
+    "caliber": "Calibre .380 ACP",
+    "price": 457000,
+    "description": "La Pistola Taurus 838 C es la versión compacta del consagrado modelo 838, con las mejores prestaciones de los modelos full size.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "Capacidad 19 + 1",
+        "action": "Simple y doble",
+        "canyon": "81 mm, 6 estrías, 254 mm de paso derecho",
+        "weight": "499 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 43, 
+    "image": "../assets/pistols/taurus/cal380/th380-cal380-removebg-preview.png",
+    "title": "Pistola Taurus TH380",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "TH380",
+    "caliber": "Calibre .380 ACP",
+    "price": 463000,
+    "description": "La Pistola Taurus TH380 cuenta con mecanismo de gatillo y acción simple y doble, además de un percutor externo que transmite seguridad al usuario.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "Capacidad 19 + 1",
+        "action": "Simple y doble",
+        "canyon": "81 mm, 6 estrías, 254 mm de paso derecho",
+        "weight": "499 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 44, 
+    "image": "../assets/pistols/taurus/cal40/100-cal40-removebg-preview.png",
+    "title": "Pistola Taurus 100",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "100",
+    "caliber": "Calibre .40 S&W",
+    "price": 620000,
+    "description": "La pistola Taurus 100 con cargadores Mec-Gar, cañón de acero y armazón de aluminio.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "Capacidad 13 + 1",
+        "action": "Simple y doble",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "750 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 45, 
+    "image": "../assets/pistols/taurus/cal40/G2CS_WINOX-cal40-removebg-preview.png",
+    "title": "Pistola Taurus G2C SW/INOX",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "G2C",
+    "caliber": "Calibre .40 S&W",
+    "price": 628000,
+    "description": "La TAURUS G2C 40 es una pistola compacta, ergonómica y ligera. Con un peso aproximado de 600 gramos, armazón de polímero de alta resistencia, tamaño compacto y sistema de percutor lanzado, es el arma ideal para portación oculta, y también es una excelente alternativa para usar como arma y respaldo. Éxito de ventas, con más de 2 millones de unidades vendidas, siendo el arma más vendida en su categoría en la actualidad.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "Capacidad 13 + 1",
+        "action": "Simple y doble",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "750 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 46, 
+    "image": "../assets/pistols/taurus/cal40/th40c.cal40-removebg-preview.png",
+    "title": "Pistola Taurus TH40C",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "TH40C",
+    "caliber": "Calibre .40 S&W",
+    "price": 638000,
+    "description": "La Pistola Taurus TH40 es la pistola ideal para uso ostensible, policial y militar, dada su alta potencia de fuego y precisión.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "Capacidad 13 + 1",
+        "action": "Simple y doble",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "750 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 47, 
+    "image": "../assets/pistols/taurus/cal45/1911tatica-cal45-removebg-preview.png",
+    "title": "Pistola Taurus 1911 Táctica",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "1911",
+    "caliber": "Calibre .45 ACP",
+    "price": 680000,
+    "description": "LA PISTOLA TAURUS 1911 tiene capacidad para 8 tiros, calibre .45ACP, cañón de 128 mm y mecanismo de disparo de acción simple, con percutor externo y armazón de acero forjado, manual y cierre de empuñadura. Utilizado en varios segmentos, tales como: deportivo, militar, policial y defensa personal. Está equipado con un carril picatinny para la fijación de accesorios y miras de tritio.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "8 disparos",
+        "action": "Acción única",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "750 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 48, 
+    "image": "../assets/pistols/taurus/cal45/845-cal45-removebg-preview.png",
+    "title": "Pistola Taurus 845",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "845",
+    "caliber": "Calibre .45 ACP",
+    "price": 675000,
+    "description": "LA PISTOLA TAURUS 1911 tiene capacidad para 8 tiros, calibre .45ACP, cañón de 128 mm y mecanismo de disparo de acción simple, con percutor externo y armazón de acero forjado, manual y cierre de empuñadura. Utilizado en varios segmentos, tales como: deportivo, militar, policial y defensa personal. Está equipado con un carril picatinny para la fijación de accesorios y miras de tritio.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "8 disparos",
+        "action": "Acción única",
+        "canyon": "107,7 mm, 254 mm de paso derecho con 6 estrías",
+        "weight": "750 gr",
+        "security": "De llave y seguro externo y manual (con decocker)" ,
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 49, 
+    "image": "../assets/pistols/taurus/cal9mm/1911_OFFICER-cal9mm-removebg-preview.png",
+    "title": "Pistola Taurus 1911 Officer",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "1911",
+    "caliber": "Calibre 9 mm",
+    "price": 660000,
+    "description": "La reconocida plataforma de 1911, ahora en una nueva versión. Taurus está en constante innovación, por eso presenta el nuevo integrante de la plataforma 1911: el Taurus 1911 Officer. Los modelos 1911 son los más precisos y con más funciones del mercado, y lideran el rendimiento en su segmento. Esta plataforma también está establecida en los Estados Unidos, siendo ampliamente utilizada tanto por el público civil como por el militar.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "10 disparos",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "194 mm",
+        "weight": "930 gr",
+        "security": "1 seguro manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 50, 
+    "image": "../assets/pistols/taurus/cal9mm/Pistola_Taurus_9mm_PT917_con_Riel_Picatinny-removebg-preview.png",
+    "title": "Pistola Taurus PT917 con Riel Picatinny",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "PT917",
+    "caliber": "Calibre 9 mm",
+    "price": 670000,
+    "description": "La PISTOLA TAURUS pt917 tiene calibre 9X19mm, capacidad de tiro 9+1, cañón de 5'', mecanismo de disparo de acción simple, miras delanteras/traseras ajustables Novak Drift y forma parte de la reconocida línea de pistolas Taurus 1911. más comodidad para disparar y mejor adaptación en el entrenamiento, lo que permite al usuario disparar más rápido a múltiples objetivos.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "10 disparos",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "194 mm",
+        "weight": "930 gr",
+        "security": "1 seguro manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 51, 
+    "image": "../assets/pistols/taurus/cal9mm/Pistola_Taurus_G3_9mm-removebg-preview.png",
+    "title": "Pistola Taurus G3",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Taurus",
+    "model": "G3",
+    "caliber": "Calibre 9 mm",
+    "price": 658000,
+    "description": "La Taurus G3 es una pistola semiautomática 9mm con armazón de polímero y percutor lanzado. Cuenta con un marco de polímero con generosos parches texturizados en la empuñadura para un control y una retención máximos en cualquier condición de disparo. El sistema de mira abierta de esta pistola incluye una mira trasera de acero dentado junto con una mira delantera de acero de puntos blancos. El marco tiene un riel Picatinny integrado. El seguro manual y el retén de la corredera están posicionados de manera óptima sobre el pulgar para una fácil manipulación.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "10 disparos",
+        "action": "Doble y Simple con Martillo Externo",
+        "canyon": "194 mm",
+        "weight": "930 gr",
+        "security": "1 seguro manual y 2 automáticos",
+        "funcionality": "Cañón móvil"
+
+    }
+},
+{
+    "id": 52, 
+    "image": "../assets/revolvers/colt/cal357/COLT-KING-COBRA-CARRY.357-removebg-preview.png",
+    "title": "Revolver Colt King Cobra Carry",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "King Cobra",
+    "caliber": "Calibre .357 MAGNUM",
+    "price": 490000,
+    "description": "El King Cobra de Colt se reencarna para 2019 como el hermano mayor Magnum .357 de 6 disparos del revólver Colt Cobra Double Action. Este King Cobra Carry con cañón de 2 pulgadas es el revólver .357 Magnum ideal para llevar oculto. El King Cobra Carry luce un marco resistente y una construcción de acero inoxidable cepillado.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "846 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 53, 
+    "image": "../assets/revolvers/colt/cal357/COLT-PYTHON.357-MAGNUM-removebg-preview.png",
+    "title": "Revolver Colt Python",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "King Python",
+    "caliber": "Calibre .357 MAGNUM",
+    "price": 739000,
+    "description": "El legendario revólver de doble acción regresa en acero inoxidable en un barril de 3 longitudes. El Python 2021 presenta modernas aleaciones de acero inoxidable y una mira trasera rediseñada. Treinta por ciento más de acero debajo de la mira trasera ajustable le brinda un revólver más fuerte y una experiencia de tiro más robusta. Una corona de objetivo empotrada, una mira frontal intercambiable por el usuario y una empuñadura de nogal con el icónico medallón Colt hacen de esta una pistola que querrás disparar Y presumir. El Python tiene una recámara en .357 Magnum y también admite cartuchos .38 Special.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "846 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 54, 
+    "image": "../assets/revolvers/colt/cal357/COLTS-MFG.KING-COBRA.357-removebg-preview.png",
+    "title": "Revolver Colt MFG King Cobra",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "King Cobra",
+    "caliber": "Calibre .357 MAGNUM",
+    "price": 490000,
+    "description": "El King Cobra de Colt se reencarna para 2019 como el hermano mayor Magnum .357 de 6 disparos del revólver Colt Cobra Double Action. Este King Cobra Carry con cañón de 2 pulgadas es el revólver .357 Magnum ideal para llevar oculto. El King Cobra Carry luce un marco resistente y una construcción de acero inoxidable cepillado.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "846 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 55, 
+    "image": "../assets/revolvers/colt/cal38/BRIGHT-COBRA-cal38-removebg-preview.png",
+    "title": "Revolver Colt Bright Cobra",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "Cobra",
+    "caliber": "Calibre .38 Special",
+    "price": 637000,
+    "description": "El Colt Cobra marca el regreso triunfal de Colt al mundo de los revólveres de doble acción. Este modelo especial recupera el legado de Colt de entregar un revólver de acero inoxidable pulido como un espejo. Tanto un tirador como una obra maestra, el Bright Cobra tiene una recámara en .38 Special y es compatible con +P. Las empuñaduras Walnut Medallion y la mira frontal Brass Bead ayudan a que disparar sea fácil y agradable.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 56, 
+    "image": "../assets/revolvers/colt/cal38/CLASSIC-COBRA-cal38-removebg-preview.png",
+    "title": "Revolver Colt Classic Cobra",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "Cobra",
+    "caliber": "Calibre .38 Special",
+    "price": 640000,
+    "description": "Esta versión de estilo clásico del revólver Cobra .38 Special +P seguramente llamará la atención. El Cobra Classic presenta un cilindro pulido, empuñadura de madera medallón y mira frontal de latón. Con el mismo gatillo de resorte de hoja legendario de Colt y una ergonomía superior, seguro que te encantará este sabor en un nuevo Colt Classic.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 57, 
+    "image": "../assets/revolvers/colt/cal38/COBRA-TWO-TONE-cal38-removebg-preview.png",
+    "title": "Revolver Colt Cobra Two Tone",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "Cobra",
+    "caliber": "Calibre .38 Special",
+    "price": 650000,
+    "description": "El Colt Cobra marca el regreso triunfal de Colt al mundo de los revólveres de doble acción. Su armazón pequeño y su cañón de 2 lo hacen ideal para llevar oculto. El Cobra® tiene una recámara en .38 especial y es compatible con +P. Esta versión especial de dos tonos cuenta con un cilindro DLC negro y empuñaduras Hyena Brown G10. Es fácil y agradable de Dispara, fácil de transportar y se basa en el excelente linaje que hace que los revólveres Colt sean especiales.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 58, 
+    "image": "../assets/revolvers/colt/cal44MAGNUM/COLT_ANACONDA_.44_MAGNUM-removebg-preview.png",
+    "title": "Revolver Colt Anaconda",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "Anaconda",
+    "caliber": "Calibre .44 MAGNUM",
+    "price": 735000,
+    "description": "La popular serie de revólveres Snake Gun de Colt obtiene una nueva incorporación con la Anaconda actualizada. La Anaconda 2021 ha sido completamente rediseñada para utilizar una acción de Python de gran tamaño. Este revólver DA, reforzado con un marco sólido de acero inoxidable para mayor resistencia y durabilidad, es digno de su pedigrí.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 59, 
+    "image": "../assets/revolvers/colt/cal44MAGNUM/COLT_S_MANUFACTURING_ANACONDA__REVOLVER__44_MAGNUM-removebg-preview.png",
+    "title": "Revolver Colt Manufacturing Anaconda",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "Anaconda",
+    "caliber": "Calibre .44 MAGNUM",
+    "price": 735000,
+    "description": "La popular serie de revólveres Snake Gun de Colt obtiene una nueva incorporación con la Anaconda actualizada. La Anaconda 2021 ha sido completamente rediseñada para utilizar una acción de Python de gran tamaño. Este revólver DA, reforzado con un marco sólido de acero inoxidable para mayor resistencia y durabilidad, es digno de su pedigrí.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 60, 
+    "image": "../assets/revolvers/colt/cal45LC/SINGLE_ACTION_ARMY_4.75-cal45-removebg-preview.png",
+    "title": "Revolver Colt Single Action Army",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Colt",
+    "model": "Single Action Army",
+    "caliber": "Calibre 45LC",
+    "price": 882000,
+    "description": "Ningún revólver Colt ha ganado mayor fama que el ejército de acción simple: The Peacemaker. En diseño y rendimiento, en línea y forma, nunca se ha creado un Colt más escultural y práctico. Las películas sirven como recordatorios constantes del papel que desempeñó este ecualizador en la conquista del Oeste. Este SAA presenta un cilindro y un cilindro pavonados, y un marco endurecido en color.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 61, 
+    "image": "../assets/revolvers/smith-and-wesson/cal22large/J-FRAME_SERIES-cal22-removebg-preview.png",
+    "title": "Revolver Smith & Wesson J-Frame Series",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Smith & Wesson",
+    "model": "J-Frame Series",
+    "caliber": "Calibre .22LR",
+    "price": 308000,
+    "description": "Performance Center de Smith & Wesson: donde el ajuste se encuentra con el rendimiento. Desde el corte y ajuste a mano hasta el ajuste preciso, las armas de fuego Performance Center son las mejores. Con origen en diseños estándar o creados desde cero, los revólveres, revólveres de caza, pistolas y rifles deportivos modernos Performance Center son la máxima expresión de la artesanía del viejo mundo y la tecnología moderna.",
+    "stock": true,
+    "available": 5,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 62, 
+    "image": "../assets/revolvers/smith-and-wesson/cal357/J-FRAME_SERIES_MODEL_60_LS_LADYSMITH-cal357-removebg-preview.png",
+    "title": "Revolver Smith & Wesson J-Frame Series 60 LS LadySmith",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Smith & Wesson",
+    "model": "J-Frame Series",
+    "caliber": "Calibre .357 MAGNUM",
+    "price": 330000,
+    "description": "El modelo 60 de Smith & Wesson, el primer revólver de acero inoxidable del mundo, fue un éxito desde su presentación en 1965. Elogiado tanto por las fuerzas del orden como por los deportistas, el modelo 60 era una versión de acero inoxidable del Chiefs Special®; y comenzó la era de la producción de armas cortas de acero inoxidable. El Modelo 60 es la elección perfecta para aquellos que buscan un revólver de armazón pequeño, totalmente de acero, con mayor control de retroceso y rendimiento comprobado. El modelo 60 LadySmith™ integra las características comprobadas del original con avances modernos.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 63, 
+    "image": "../assets/revolvers/smith-and-wesson/cal38/J-FRAME_SERIES_MODEL_36_CLASSICS-cal38-removebg-preview.png",
+    "title": "Revolver Smith & Wesson J-Frame Series 36 Classic",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Smith & Wesson",
+    "model": "J-Frame Series",
+    "caliber": "Calibre .38 S&W Special",
+    "price": 892000,
+    "description": "Performance Center de Smith & Wesson: donde el ajuste se encuentra con el rendimiento. Desde el corte y ajuste a mano hasta el ajuste preciso, las armas de fuego Performance Center son las mejores. Con origen en diseños estándar o creados desde cero, los revólveres, revólveres de caza, pistolas y rifles deportivos modernos Performance Center son la máxima expresión de la artesanía del viejo mundo y la tecnología moderna.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 64, 
+    "image": "../assets/revolvers/taurus/cal22Large/RT96TA-CAL22LR-removebg-preview.png",
+    "title": "Revolver taurus RT 96 TA",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "96 TA",
+    "caliber": "Calibre .22LR",
+    "price": 360000,
+    "description": "El revólver Taurus 96 TA garantiza precisión y confiabilidad en el disparo y una empuñadura de goma brinda comodidad al tirador.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "1070 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 65, 
+    "image": "../assets/revolvers/taurus/cal22Large/RT970-CAL22LR-removebg-preview.png",
+    "title": "Revolver taurus RT 970",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "970",
+    "caliber": "Calibre .22LR",
+    "price": 330000,
+    "description": "El Taurus 970 Revolver es un arma modelo Tracker de marco medio, con un cañón de 6,5 pesado y adecuado para un visor.",
+    "stock": true,
+    "available": 5,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "870 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 66, 
+    "image": "../assets/revolvers/taurus/cal22Large/RT992-CAL22LR-removebg-preview.png",
+    "title": "Revolver taurus RT 992",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "992",
+    "caliber": "Calibre .22LR",
+    "price": 356000,
+    "description": "EL REVOLVER TAURUS 992 tiene capacidad de 9 tiros y dos cañones, uno en calibre .22LR y otro en calibre 22MAG con cañón ventilado de 6 1/2 (165mm) y miras ajustables. sin necesidad de herramientas, es un arma de gran capacidad ideal para la caza y el tiro deportivo. Dotada de empuñadura ergonómica, proporciona al tirador un agarre seguro y fiable, reduciendo el retroceso y aportando mayor equilibrio a sus disparos.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "6 municiones",
+        "action": "Simple y doble",
+        "canyon": "51 mm",
+        "weight": "870 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 67, 
+    "image": "../assets/revolvers/taurus/cal357/rt306-toro-cal357-removebg-preview.png",
+    "title": "Revolver Taurus RT 605 TORO ",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "605 TORO",
+    "caliber": "Calibre .357 MAGNUM",
+    "price": 560000,
+    "description": "Es difícil vencer a un .357 Magnum de armazón pequeño con un cañón de tres pulgadas. Ahora imagine que en lugar de limitarse a miras de hierro, su .357 Magnum aceptaría una mira compacta de punto rojo. No tiene que imaginar más, con el lanzamiento del Taurus 605 TORO, el primer revólver Magnum .357 de marco pequeño que está listo para el punto rojo. La nueva montura acepta ópticas que se ajustan a la huella de Holosun K. El nuevo 605 TORO no pierde ninguna de las grandes características del 605 Defender. Todavía usa toda la construcción de acero, el gatillo excelente y, por supuesto, tiene cinco disparos de combate que detienen .357 Magnum.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger":"Capacidad 5",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "930 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 68, 
+    "image": "../assets/revolvers/taurus/cal357/rt66-cal357mag-removebg-preview.png",
+    "title": "Revolver Taurus RT 66",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 66",
+    "caliber": "Calibre .357 MAGNUM",
+    "price": 294000,
+    "description": "Revólver TAURUS modelo 66 I, calibre 357 Magnum, Industria Brasilera. Fabricado en la era Smith y Wesson, en acero inoxidable con cañón de 4 pulgadas de largo y tambor de 6 alvéolos. Tiene cachas originales de madera. Se acciona mediante doble y simple acción. La doble acción es liviana y agradable al disparar. Tiene guión fijo color blanco y alza regulable en deriva y altura. Excelente precisión, incluso en disparos a distancias considerables. Es un arma manuable ideal para segunda arma en partidas de caza, para la práctica de tiro deportivo, etc. Tiene marcados los tornillo de la tapa de mecanismos, ya que fue abierto para pulir el mecanismo y alivianar la doble acción",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger":"Capacidad 5",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "930 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 69, 
+    "image": "../assets/revolvers/taurus/cal357/rt357h.racing-hunter-dualtone-cano5.11-cal357-removebg-preview.png",
+    "title": "Revolver Taurus RT357H Racing Hunter",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 357H",
+    "caliber": "Calibre .357 MAGNUM",
+    "price": 340000,
+    "description": "Taurus presenta el nuevo modelo RT357 H - Raging Hunter, un revólver con capacidad de 7 tiros en calibre .357 Magnum, riel Picatinny y diseño innovador, especialmente desarrollado para el mercado de la caza y el ocio.",
+    "stock": true,
+    "available": 5,
+    "characteristics":{
+        "charger":"Capacidad 5",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "1400 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 70, 
+    "image": "../assets/revolvers/taurus/cal38/rt82-cal38-removebg-preview.png",
+    "title": "Revolver Taurus RT82",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 82",
+    "caliber": "Calibre .38 Special",
+    "price": 421000,
+    "description": "El revólver Taurus 82 cuenta con una empuñadura de goma que garantiza seguridad y estabilidad.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger":"Capacidad 6",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "1200 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 71, 
+    "image": "../assets/revolvers/taurus/cal38/rt85-cal38-removebg-preview.png",
+    "title": "Revolver Taurus RT85",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 85",
+    "caliber": "Calibre .38 Special",
+    "price": 450000,
+    "description": "El revólver Taurus 85 es ultrarrápido y ultraconfiable, lo que lo convierte en parte de nuestra familia más popular.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger":"Capacidad 6",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "1200 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 72, 
+    "image": "../assets/revolvers/taurus/cal38/rt838-cal38-removebg-preview.png",
+    "title": "Revolver Taurus RT 838",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 838",
+    "caliber": "Calibre .38 Special",
+    "price": 434000,
+    "description": "El revólver Taurus 838 se produce con un acabado de acero inoxidable de alto brillo y mate, y tiene una capacidad de 8 tiros.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger":"Capacidad 6",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "1200 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 73, 
+    "image": "../assets/revolvers/taurus/cal38/rt856-toro-cal38-removebg-preview.png",
+    "title": "Revolver Taurus RT 856 TORO",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 856",
+    "caliber": "Calibre .38 Special",
+    "price": 426000,
+    "description": "El revólver Taurus 856 es perfecto para llevar oculto, tiene una empuñadura de goma anatómica que lo hace cómodo de usar.",
+    "stock": true,
+    "available": 7,
+    "characteristics":{
+        "charger":"Capacidad 6",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "1200 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 74, 
+    "image": "../assets/revolvers/taurus/cal44MAGNUM/RT044-CAL44MG-removebg-preview.png",
+    "title": "Revolver Taurus RT044",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 044",
+    "caliber": "Calibre .44 MAGNUM",
+    "price": 503000,
+    "description": "El Revolver Taurus 044 ofrece la ventaja de miras ajustables y compensadores de retroceso al final del cañón.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger":"Capacidad 6",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "970 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 75, 
+    "image": "../assets/revolvers/taurus/cal44MAGNUM/RT44H-RACING-HUNTER-CAL44MG-removebg-preview.png",
+    "title": "Revolver Taurus RT44H Racing Hunter",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 44H",
+    "caliber": "Calibre .44 MAGNUM",
+    "price": 520000,
+    "description": "El revólver Taurus 44H Raging Hunter cuenta con compensadores de retroceso en el extremo del cañón que están diseñados para dispersar los gases, reduciendo la sustentación.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger":"Capacidad 6",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "970 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 76, 
+    "image": "../assets/revolvers/taurus/cal44MAGNUM/RT444-CAL44MG-removebg-preview.png",
+    "title": "Revolver Taurus RT444",
+    "category": "revolveres",
+    "class": "Revólveres",
+    "brand": "Taurus",
+    "model": "RT 444",
+    "caliber": "Calibre .44 MAGNUM",
+    "price": 490000,
+    "description": "El Revolver Taurus 444 es un modelo de armazón pesado, con cañón de 6,5 pulgadas con sistema de cierre de doble cañón y acabado en acero inoxidable mate.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger":"Capacidad 6",
+        "action": "Simple y doble",
+        "canyon": "76.2 mm",
+        "weight": "970 gr",
+        "security": "Barra de percusión",
+        "funcionality": "Cañón fijo"
+
+    }
+},
+{
+    "id": 77, 
+    "image": "../assets/shotgun/akkar/Escopeta_de_Repetición_Akkar_Stopping_Power-Calibre12-removebg-preview.png",
+    "title": "Escopeta de Repetición Akkar Stopping Power",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Akkar",
+    "model": "Stopping Power",
+    "caliber": "Calibre 12/70",
+    "price": 315200,
+    "description": "La Escopeta de repetición Akkar Stopping Power es de calibre 12 y presenta una acción de bombeo o corredera con una capacidad de 6 + 1 cartuchos (6 en cargador y uno en recámara).  Cuenta con una culata cómoda de material sintético con una cantonera de goma al final y un cañón de 28 pulgadas con una terminación pavonada negro mate.",
+    "stock": true,
+    "available": 7,
+    "characteristics":{
+        "charger": "capacidad 6 + 1",
+        "canyon": "479 mm",
+        "weight": "2.75 kg",
+        "action": "Repetición",
+        "funcionality": "Bombeo o corredera",
+        "security": "Botón seguro de disparador"
+
+    }
+},
+{
+    "id": 78, 
+    "image": "../assets/shotgun/akkar/Escopeta_de_Repetición_Akkar_Stopping_Power_Tactical_Calibre_12-removebg-preview.png",
+    "title": "Escopeta de Repetición Akkar Stopping Power Tactical",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Akkar",
+    "model": "Stopping Power",
+    "caliber": "Calibre 12/70",
+    "price": 340200,
+    "description": "La Escopeta Akkar Stopping Power tactical es de calibre 12 y presenta una acción de bombeo o corredera con una capacidad de 6 + 1 cartuchos (6 en cargador y uno en recámara). Cuenta con una culata plegable de material sintético capaz de doblarse para reducir el tamaño del arma y un cañón de 47 cm negro matte con una terminación de pavón.",
+    "stock": true,
+    "available": 5,
+    "characteristics":{
+        "charger": "capacidad 6 + 1",
+        "canyon": "479 mm",
+        "weight": "2.75 kg",
+        "funcionality": "Bombeo o corredera",
+        "security": "Botón seguro de disparador",
+        "action": "Repetición"
+    }
+},
+{
+    "id": 79, 
+    "image": "../assets/shotgun/akkar/Escopeta_de_Repetición_Akkar_Stopping_Power_Telescopic_Calibre_12-removebg-preview.png",
+    "title": "Escopeta de Repetición Akkar Stopping Power Telescopic",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Akkar",
+    "model": "Stopping Power",
+    "caliber": "Calibre 12/70",
+    "price": 360200,
+    "description": "La escopeta Akkar Stopping Power Telescopic es una escopeta de culata extensible de tres tramos con porta cartuchos y pistol grip, ideal para espacios reducidos. La culata es sintética y el acabado del cañón y la caja de mecanismo es pavón mate. Con guion incorporado. Capacidad: 5+1 cartuchos",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "capacidad 6 + 1",
+        "canyon": "479 mm",
+        "weight": "2.75 kg",
+        "funcionality": "Bombeo o corredera",
+        "security": "Botón seguro de disparador",
+        "action": "Repetición"
+    }
+},
+{
+    "id": 80, 
+    "image": "../assets/shotgun/akkar/Escopeta_Superpuesta_Akkar_Churchill_206_Black_Sintética_Calibre_12-removebg-preview.png",
+    "title": "Escopeta de Repetición Akkar Churchill 206 Black Synthetic",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Akkar",
+    "model": "Churchill",
+    "caliber": "Calibre 12/76",
+    "price": 618200,
+    "description": "La escopeta superpuesta Akkar 206 Black Sintética es de calibre 12 y recámara de 3″ (76 mm). Los cañones de acero tienen 71 cm de largo y están terminados en pavón brillante. También cuenta con extractores automáticos, 5 chokes intercambiables y mira de fibra óptica. A continuación puedes ver otros modelos de escopetas para caza.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "capacidad 6 + 1",
+        "canyon": "710 mm",
+        "weight": "3.25 kg",
+        "security": "Automático",
+        "funcionality": "Bombeo o corredera",
+        "action": "Repetición"
+    }
+},
+{
+    "id": 81, 
+    "image": "../assets/shotgun/hatsan/Escopeta_de_Repetición_Hatsan_Escort_MP-cal12-removebg-preview.png",
+    "title": "Escopeta de Repetición Hatsan Escort MP",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Hatsan",
+    "model": "Escort",
+    "caliber": "Calibre 12/76",
+    "price": 340200,
+    "description": "La Hatsan MP es una escopeta táctica, con un cañón de 20” con freno de boca y una recámara de 3” / 76 mm. Es de calibre 12 y tiene una capacidad de 7+1 cartuchos. Incorpora además aparatos de puntería regulable y un riel Picatinny para montar accesorios como es el caso de miras telescópicas o linternas. La culata de polímero color negro, cuenta con alojamiento para 2 cartuchos. Además, tiene una empuñadura de pistola integrada y una chimaza ergonométrica muy cómoda para el agarre. La durabilidad y larga vida de esta escopeta están aseguradas gracias a sus caños a prueba de oxidación. Estos, están cromados, fabricados con acero al cromo, níquel y molibdeno.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "capacidad 7 + 1",
+        "canyon": "710 mm",
+        "weight": "3.6 kg",
+        "security": "Automático",
+        "funcionality": "Bombeo o corredera",
+        "action": "Repetición"
+
+    }
+},
+{
+    "id": 82, 
+    "image": "../assets/shotgun/hatsan/Escopeta_de_Repetición_Hatsan_Escort_MPS_Calibre_12-removebg-preview.png",
+    "title": "Escopeta de Repetición Hatsan Escort MPS",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Hatsan",
+    "model": "Escort",
+    "caliber": "Calibre 12/76",
+    "price": 350200,
+    "description": "La Hatsan Escort MPS es una escopeta de acción de bombeo táctica de calibre 12 con cámara de 3” / 76 mm que fue diseñada y pensada para propósitos de seguridad, defensa y cumplimiento de la ley. Tiene un cañón de 51 cm con cargador de 7+1, de Acero Ni-Cr-Mo con acabado en cromo negro y con escudo térmico instalado. La escopeta tiene además un guion de fibra óptica y un seguro manual.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "capacidad 7 + 1",
+        "action": "Bombeo",
+        "canyon": "510 mm",
+        "weight": "3 kg",
+        "security": "Automático",
+        "funcionality": "Bombeo o corredera"
+    }
+},
+{
+    "id": 83, 
+    "image": "../assets/shotgun/hatsan/Escopeta_Hatsan_ESCORT_Aimguard_12-70_Culata_Rebatible-cal12-removebg-preview.png",
+    "title": "Escopeta de Repetición Hatsan Escort Aimguard",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Hatsan",
+    "model": "Escort",
+    "caliber": "Calibre 12/76",
+    "price": 366000,
+    "description": "Esta escopeta Hatsan Aimguard calibre 12 es a repetición y tiene una capacidad de 7 + 1 disparos. Específicamente, estamos hablando del modelo Escort de culata fija, que se encuentra entre los más vendidos en materia de escopetas de defensa. Se trata de un arma con un diseño ergonómico y largo, que posibilita una carga fácil y rápida. Tiene culata sintética con cantonera de goma, cuyo objetivo es lograr una mayor absorción del retroceso y además incluye empuñadura o grip adicional para poder intercambiarla e incrementar su versatilidad.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "capacidad 7 + 1",
+        "action": "Bombeo",
+        "canyon": "510 mm",
+        "weight": "2.9 kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+
+    }
+},
+{
+    "id": 84, 
+    "image": "../assets/shotgun/hatsan/Escopeta_Semiautomática_Hatsan_Escort_BTS12-removebg-preview.png",
+    "title": "Escopeta Semiautomática Hatsan Escort BTS12",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Hatsan",
+    "model": "Escort",
+    "caliber": "Calibre 12/76",
+    "price": 396000,
+    "description": "La Hatsan BTS es una escopeta semiautomática calibre 12 que cuenta con recámara Magnum de 3” / 76 mm. Incluye 3 modalidades de cargadores box diferentes: de 2, de 5 o de 10 cartuchos, pudiendo entonces alcanzar una capacidad de hasta 10 disparos. Trae 5 chokes intercambiables para adecuar el tiro a las condiciones y necesidades del momento y se adapta a cada tirador ya que la manivela de cerrojo es reversible para operación ambidiestra. Además de tener un carril picatinny integrado en el receptor, tiene también otros dos rieles de este tipo, que son desmontables y se encuentran a ambos lados del guardamanos. Además de un recibidor de aleación superior e inferior desmontable, también incluye un juego de alza opcional abatible delantera y trasera y para facilitar su transporte tiene tanto un asa desmontable como un estuche rígido de diseño personalizado. Su durabilidad y resistencia son extremas gracias a que es a prueba de oxidación. Esto, debido a que el cilindro es de acero perforado cromado.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "capacidad 2; 5 o 10",
+        "action": "Bombeo",
+        "canyon": "510 mm",
+        "weight": "2.9 kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+
+    }
+},
+{
+    "id": 85, 
+    "image": "../assets/shotgun/hatsan/Escopeta_Semiautomática_Hatsan_Escort_SDX_12-removebg-preview.png",
+    "title": "Escopeta Semiautomática Hatsan Escort SDX 12 FDE",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Hatsan",
+    "model": "Escort",
+    "caliber": "Calibre 12/76",
+    "price": 376000,
+    "description": "La Hatsan BTS es una escopeta semiautomática calibre 12 que cuenta con recámara Magnum de 3” / 76 mm. Incluye 3 modalidades de cargadores box diferentes: de 2, de 5 o de 10 cartuchos, pudiendo entonces alcanzar una capacidad de hasta 10 disparos. Trae 5 chokes intercambiables para adecuar el tiro a las condiciones y necesidades del momento y se adapta a cada tirador ya que la manivela de cerrojo es reversible para operación ambidiestra. Además de tener un carril picatinny integrado en el receptor, tiene también otros dos rieles de este tipo, que son desmontables y se encuentran a ambos lados del guardamanos. Además de un recibidor de aleación superior e inferior desmontable, también incluye un juego de alza opcional abatible delantera y trasera y para facilitar su transporte tiene tanto un asa desmontable como un estuche rígido de diseño personalizado. Su durabilidad y resistencia son extremas gracias a que es a prueba de oxidación. Esto, debido a que el cilindro es de acero perforado cromado.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "capacidad 2 + 1; 5 + 1; 10 + 1",
+        "action": "Bombeo",
+        "canyon": "510 mm",
+        "weight": "3.75 Kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+
+    }
+},
+{
+    "id": 86, 
+    "image": "../assets/shotgun/mossberg/500-ati-tactical-removebg-preview.png",
+    "title": "Escopeta Mossberg 500 ATI Tactical",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Mossberg",
+    "model": "500",
+    "caliber": "Calibre 12",
+    "price": 450000,
+    "description": "Las características estándar de acción de bombeo incluyen extractores dobles, bloqueo de acero contra acero, barras de acción gemelas y elevador antiatascos. Seguridad ambidiestra montada en la parte superior",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "capacidad 5 + 1",
+        "action": "Bombeo",
+        "canyon": "469 mm",
+        "weight": "3.75 Kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+
+    }
+},
+{
+    "id": 87, 
+    "image": "../assets/shotgun/mossberg/500_COMBO_FIELD-DEER-removebg-preview.png",
+    "title": "Escopeta Mossberg 500 Combo Field Deer",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Mossberg",
+    "model": "500",
+    "caliber": "Calibre 12",
+    "price": 632000,
+    "description": "Un juego de 2 barriles para extender el uso de caza, este modelo juvenil también utiliza el sistema de bloqueo sin herramientas FLEX en la culata, con una culata de caza ajustable FLEX de 4 posiciones. Es más adaptable para la aplicación y encaja con los accesorios FLEX del mercado secundario y los barriles de accesorios 500.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "capacidad 5 + 1",
+        "action": "Bombeo",
+        "canyon": "469 mm",
+        "weight": "3.75 Kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+    }
+},
+{
+    "id": 88, 
+    "image": "../assets/shotgun/mossberg/500turkey-removebg-preview.png",
+    "title": "Escopeta Mossberg 500 Turkey",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Mossberg",
+    "model": "500",
+    "caliber": "Calibre 12",
+    "price": 585000,
+    "description": "Desarrollados con un innovador espaciador de stock de 1 pulgada, nuestros Super Bantams fueron diseñados para crecer con el tirador, brindando continuamente una longitud de tiro adecuada durante los años formativos del tirador. Los Super Bantams tienen un agarre más pequeño para alcanzar el gatillo más fácilmente, EZ-Reach ™ guardamanos en modelos selectos para un alcance más corto mientras realiza el ciclo de la acción y cañones más cortos para un mejor equilibrio.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "capacidad 5 + 1",
+        "action": "Bombeo",
+        "canyon": "469 mm",
+        "weight": "3.75 Kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+    }
+},
+{
+    "id": 89, 
+    "image": "../assets/shotgun/mossberg/590M_MAG-FED-removebg-preview.png",
+    "title": "Escopeta Mossberg 590M MAG FED",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Mossberg",
+    "model": "590",
+    "caliber": "Calibre 12",
+    "price": 748000,
+    "description": "Cuando se trata de escopetas de acción de bombeo con cargador desmontable, la Mossberg 590M tiene el equilibrio, la construcción y la durabilidad del cargador que necesita. Junto con la conveniencia de alimentación magnética, el 590M cuenta con bloqueo positivo de acero contra acero, barras de acción gemelas, receptores perforados y roscados y un seguro ambidiestro.",
+    "stock": true,
+    "available": 6,
+    "characteristics":{
+        "charger": "capacidad 10 + 1",
+        "action": "Bombeo",
+        "canyon": "469 mm",
+        "weight": "3.75 Kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+
+    }
+},
+{
+    "id": 90, 
+    "image": "../assets/shotgun/mossberg/590S_OPTIC-READY-removebg-preview.png",
+    "title": "Escopeta Mossberg 590S Optic Ready",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Mossberg",
+    "model": "590",
+    "caliber": "Calibre 12",
+    "price": 704000,
+    "description": "Los modelos 590S ciclan cartuchos de 1,75 pulgadas, 2,75 pulgadas o 3 pulgadas, indistintamente, sin necesidad de un adaptador. Elija una longitud de cartucho o cargue simultáneamente cualquier combinación de las tres. ",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "capacidad entre 5+1 y 13+1 dependiendo del tamaño de la calota",
+        "action": "Bombeo",
+        "canyon": "469 mm",
+        "weight": "3.75 Kg",
+        "security": "Botón cruzado manual",
+        "funcionality": "Bombeo o corredera"
+
+    }
+},
+{
+    "id": 91, 
+    "image": "../assets/cabines/legend/Carabina_Legend_JW_25A_Calibre_.22_LR-removebg-preview.png",
+    "title": "Carabina Legend JW 25A",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Legend",
+    "model": "JW",
+    "caliber": "Calibre .22LR",
+    "price": 171500,
+    "description": "Esta carabina de repetición, actualmente llamada Legend (Rifle and Sport Shotguns) JW 25A, era conocida anteriormente como Norinco JW 25 (China North Industries Corp.). Se trata de una versión mejorada del modelo original. Este modelo es calibre 22 LR. cuenta con una capacidad de 5 disparos y es ideal para caza. Su culata está fabricada en madera lustrada y su funcionamiento es a cerrojo.",
+    "stock": true,
+    "available": 7,
+    "characteristics":{
+        "charger": "5 disparos",
+        "funcionality": "A cerrojo",
+        "canyon": "525 mm",
+        "weight": "3400grs",
+        "action": "Doble acción",
+        "security": "Seguro de gatillo"
+
+        
+    }
+},
+{
+    "id": 92, 
+    "image": "../assets/cabines/marlin/Carabina_Marlin_60_Calibre_.22_LR-removebg-preview.png",
+    "title": "Carabina Marlin 60",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Marlin",
+    "model": "60",
+    "caliber": "Calibre .22LR",
+    "price": 348000,
+    "description": "La carabina semiautomática Marlin Modelo 60 es uno de los rifles de calibre 22 Largo más populares y vendidos del mundo. De origen estadounidense, Marlin Firearms es una reconocida fábrica de carabinas y armas de fuego fundada en 1870, lo que nos garantiza calidad y trayectoria.",
+    "stock": true,
+    "available": 5,
+    "characteristics":{
+        "charger": "14 municiones",
+        "funcionality": "Semiautomática",
+        "canyon": "483 mm",
+        "weight": "2.49 kg",
+        "action": "Doble acción",
+        "security": "Seguro de gatillo"
+
+    }
+},
+{
+    "id": 93, 
+    "image": "../assets/cabines/marlin/Carabina_Marlin_60_SS_Calibre_.22_LR-removebg-preview.png",
+    "title": "Carabina Marlin 60 SS",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Marlin",
+    "model": "60",
+    "caliber": "Calibre .22LR",
+    "price": 353000,
+    "description": "La carabina semiautomática Marlin Modelo 60 es uno de los rifles de 22 Largo más populares y vendidos del mundo. De origen estadounidense, Marlin Firearms es una reconocida fábrica de carabinas y armas de fuego fundada en 1870, lo que nos garantiza calidad y trayectoria. Este modelo (60 SS) presenta un acabado de acero inoxidable y una culata laminada de dos tonos.",
+    "stock": true,
+    "available": 8,
+    "characteristics":{
+        "charger": "14 municiones",
+        "funcionality": "Semiautomática",
+        "canyon": "483 mm",
+        "weight": "2.49 kg",
+        "action": "Doble acción",
+        "security": "Seguro de gatillo"
+
+    }
+},
+{
+    "id": 94, 
+    "image": "../assets/cabines/marlin/Carabina_Marlin_795_Calibre_.22_LR-removebg-preview.png",
+    "title": "Carabina Marlin 795",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Marlin",
+    "model": "795",
+    "caliber": "Calibre .22LR",
+    "price": 260000,
+    "description": "La carabina semiautomática Marlin Modelo 60 es uno de los rifles de calibre 22 Largo más populares y vendidos del mundo. De origen estadounidense, Marlin Firearms es una reconocida fábrica de carabinas y armas de fuego fundada en 1870, lo que nos garantiza calidad y trayectoria.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "1 cargador de 5 tiros",
+        "funcionality": "Semiautomática",
+        "security": "manual",
+        "weight": "2.49 kg",
+        "canyon": "483 mm",
+        "action": "Doble acción"
+        
+    }
+},
+{
+    "id": 95, 
+    "image": "../assets/cabines/marlin/Carabina_Marlin_XT-17R_Calibre_.17_HMR-removebg-preview.png",
+    "title": "Carabina Marlin XT-17R",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Marlin",
+    "model": "XT",
+    "caliber": "Calibre .17HMR",
+    "price": 110000,
+    "description": "La línea XT de Marlin se compone por carabinas de acción a cerrojo, extremadamente confiables, completas y muy divertidas para disparar y aprender. El rifle de  cerrojo serie XT-17-R son de una precisión insuperable. Capaz de disparar una bala de polímero con una trayectoria muy plana. Con disparador Pro-Fire(TM) ajustable, que proporciona una sensación de disparo inigualable.",
+    "stock": true,
+    "available": 9,
+    "characteristics":{
+        "charger": "Extraible de 7 disparos",
+        "funcionality": "Semiautomática",
+        "security": "manual",
+        "weight": "2.72 kg",
+        "canyon": "483 mm",
+        "action": "Doble acción"
+    }
+},
+
+{
+    "id": 96, 
+    "image": "../assets/cabines/ruger/Carabina_Ruger_10-22_Calibre_.22_LR_Inox-removebg-preview.png",
+    "title": "Carabina Ruger 10/22 Inox",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Ruger",
+    "model": "10/22",
+    "caliber": "Calibre .22LR",
+    "price": 118500,
+    "description": "El Ruger 10/22 es un rifle semiautomático de percusión anular calibre 22 LR que desde su inicio se ha convertido en el rifle de referencia para principiantes y tiradores experimentados. La carabina Ruger 22 tiene 14 variaciones diferentes que abarcan una amplia variedad de accesorios y configuraciones. Esto incluye los modelos que tenían en la cámara 17 HMR, 22 WMR y, más comúnmente, el 22LR. Este modelo en particular es de calibre 22LR y presenta una acción semiautomática. La culata es de material sintético con segrinado en el grip y el guardamonte, mientras que el cañón está fabricado en acero inoxidable y tiene un estriado interno que consta de 6 estrías.  El cargador es de tipo rotativo y tiene una capacidad de 10 municiones, aunque se pueden conseguir cargadores de una capacidad de hasta 50 municiones.",
+    "stock": true,
+    "available": 4,
+    "characteristics":{
+        "charger": "Capacidad 10 municiones",
+        "funcionality": "Semiautomática",
+        "security": "manual",
+        "weight": "2 kg",
+        "canyon": "483 mm",
+        "action": "Doble acción"
+    }
+},
+{
+    "id": 97, 
+    "image": "../assets/cabines/ruger/Carabina_Ruger_10-22_RB_Calibre_.22_LR-removebg-preview.png",
+    "title": "Carabina Ruger 10/22 RB",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Ruger",
+    "model": "10/22",
+    "caliber": "Calibre .22LR",
+    "price": 440500,
+    "description": "La carabina Ruger 10/22 Long Rifle es un producto histórico y emblemático producido por la fábrica de armamento estadounidense Sturm, Ruger & Co. Esta carabina se ha estado produciendo y vendiendo mundialmente desde 1964, realmente un clásico que ha sobrevivido los años.",
+    "stock": true,
+    "available": 7,
+    "characteristics":{
+        "charger": "Capacidad 10 municiones",
+        "canyon": "470 mm",
+        "funcionality": "Semiautomática",
+        "security": "Manual. Incluye cerrojo para guardado seguro",
+        "weight": "2.49 kg"
+    }
+},
+{
+    "id": 98, 
+    "image": "../assets/cabines/ruger/Carabina_Semiautomática_Ruger_PC_9mm-removebg-preview.png",
+    "title": "Carabina Ruger Semiautomática PC",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Ruger",
+    "model": "PC 19100",
+    "caliber": "Calibre 9 mm",
+    "price": 962500,
+    "description": "La carabina semiautomática Ruger PC es de calibre de 9 mm y tiene una capacidad total de 17 tiros. Este modelo cuenta con un cañón roscado de 16.12’’, alza regulable y riel Picattiny para la incorporación de miras telescópicas. Además, tiene culata regulable de polímero y sistema “take down”, el cual le permite quebrarse en 2 y así facilitar su transporte. Su terminación es pavón-polímero y acepta cargadores de Glock, los cuales pueden llegar a permitirte incrementar su capacidad de disparos.",
+    "stock": true,
+    "available": 3,
+    "characteristics":{
+        "charger": "Capacidad 17 municiones",
+        "canyon": "406 mm",
+        "funcionality": "Semiautomática",
+        "action": "Break Down",
+        "weight": "2.49 kg",
+        "security": "Manual. Incluye cerrojo para guardado seguro"
+    }
+},
+{
+    "id": 99, 
+    "image": "../assets/cabines/winchester/Carabina_de_Repetición_Winchester_1894_Calibre_30.30-removebg-preview.png",
+    "title": "Carabina de Repetición Winchester 1894",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Winchester",
+    "model": "1894",
+    "caliber": "Calibre 30-30",
+    "price": 892500,
+    "description": "Esta carabina Winchester incorporada en 1895, pertenece al clásico modelo 94 y representa uno de los más populares fusiles de cacería. Específicamente, el cartucho 30.30, es el más representativo de los fusiles Modelo 1894. Se trata de un fusil palanquero, con capacidad de 7 cartuchos + 1, y fue el primero en emplear cartuchos con pólvora sin humo, lo cual permitió conseguir una acción mucho más resistente de la que hasta el momento venía produciendo Winchester.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 7 + 1 recámara",
+        "canyon": "500 mm",
+        "action": "Palanquero",
+        "weight": "2.49 kg",
+        "security": "Manual. Incluye cerrojo para guardado seguro",
+        "funcionality": "Semiautomática"
+
+    }
+},
+{
+    "id": 100, 
+    "image": "../assets/cabines/winchester/Carabina_Winchester_Wildcat_Calibre_.22_LR-removebg-preview.png",
+    "title": "Carabina de Repetición Winchester Wildcat",
+    "category": "carabinas",
+    "class": "Carabina",
+    "brand": "Winchester",
+    "model": "Wildcat",
+    "caliber": "Calibre .22LR",
+    "price": 792500,
+    "description": "La carabina Winchester Wildcat es una carabina semiautomática, calibre .22 LR. Este modelo, significa un gran cambio no solamente por su diseño tan atractivo, sino por sus avances técnicos. Se trata de un arma altamente eficaz y fiable en cada disparo, a la vez que muy sencilla de utilizar y mantener, digna de Winchester. Esta carabina está diseñada especialmente para ofrecer el mejor servicio y placer a los tiradores deportivos, con una culata ergonómica ambidiestra, un elegante diseño y una empuñadura de pistola. Tiene la posibilidad de incorporar fácilmente una mira óptica, dando lugar a una carabina completa con bípode. De igual modo, permite también agregar una fijación para la correa del hombro, una linterna o cualquier accesorio que se te antoje agregar.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "Capacidad 10 + 1 recámara",
+        "canyon": "480 mm",
+        "action": "Cargador DBM",
+        "weight": "2.49 kg",
+        "security": "Manual. Incluye cerrojo para guardado seguro",
+        "funcionality": "Semiautomática"
+
+    }
+},
+{
+    "id": 101, 
+    "image": "/assets/Wilson-Combat-Magazine-Fed-Shotgun-M.F.S-1..png",
+    "title": "Escopeta Wilson Combat CQB",
+    "category": "escopetas",
+    "class": "Escopeta",
+    "brand": "Wilson Combat",
+    "model": "CQB",
+    "caliber": "Calibre 12",
+    "price": 890500,
+    "description": "La escopeta Wilson Combat CQB ha sido desarrollada a pedido de los tiradores tácticos que buscan el paquete de escopeta táctica ideal con la capacidad de ajuste adicional y la modularidad inherentes a una culata plegable compatible con AR.",
+    "stock": true,
+    "available": 1,
+    "characteristics":{
+        "charger": "capacidad 6 + 1",
+        "action": "Cargador DBM",
+        "canyon": "469 mm",
+        "weight": "3.75 Kg",
+        "security": "Manual. Incluye cerrojo para guardado seguro",
+        "funcionality": "Semiautomática"
+    }
+},
+{
+    "id": 102, 
+    "image": "../assets/pistols/glock/cal9mm/gx4-removebg-preview.png",
+    "title": "Pistola Glock GX4 Gen 3",
+    "category": "pistolas",
+    "class": "Pistola",
+    "brand": "Glock",
+    "model": "GX4",
+    "caliber": "Calibre 9 mm",
+    "price": 730000,
+    "description": "Esta pistola, doptada por el ejército francés recientemente, posee un revestimiento de PVD en acabado negro mate en su corredera, miras metálicas luminiscentes “Glock Steel” y, además, tiene expulsión ambidiestra del cargador.",
+    "stock": true,
+    "available": 2,
+    "characteristics":{
+        "charger": "capacidad 17",
+        "action": "Safe Action",
+        "canyon": "114 mm",
+        "weight": "711 g",
+        "security": "Aguja lanzada SA",
+        "funcionality": "Cañón móvil"
+
+    }
+}
+
+]

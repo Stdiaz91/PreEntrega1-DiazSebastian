@@ -1,0 +1,33 @@
+.banner__contact{
+    margin-top: 10px;
+    position: relative;
+    display: flex;
+}
+.banner__contact__img{
+    height: 135px;
+    object-fit: cover;
+}
+
+.container__contact{
+    font-size: 20px;
+    position: absolute;
+    right: 0;
+    backdrop-filter: blur(5px);
+    border-radius: .5rem;
+}
+
+.container__contact p{
+    padding: 8px 8px 0 8px;
+    text-shadow: 0.1em 0.1em 0.2em #000000;
+}
+
+.container__contact a{
+    font-weight: 700;
+    color: var(--secondary);
+}
+
+.container__contact a:hover{
+    text-decoration: underline;
+}
+
+

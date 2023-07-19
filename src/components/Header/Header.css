@@ -1,0 +1,20 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .header:hover{
+    cursor: pointer;
+  }
+
+  .shop__gun{
+    font-size: 30px !important;
+    font-weight: 700 !important;
+  }
+  
+  .logo{
+    width: 5rem;
+    height: 5rem;
+  }
+  

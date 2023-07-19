@@ -1,0 +1,50 @@
+
+.item__menu.cart{
+    margin-top: 1rem;
+}
+
+.item__menu.cart:hover div i{
+    color: var(--secondary);
+}
+
+.item__menu.cart:hover div div span{
+    color: var(--secondary);
+}
+
+
+.container__cart{
+    width: 50px;
+    position: relative;
+    transition: all 0.5s ease;
+}
+
+.container__cart:hover i{
+    transform: scale(1.2);
+    color: var(--secondary);
+
+}
+
+.cart{
+    cursor: pointer;
+    color: var(--primary);
+}
+
+.bi.bi-cart{
+    font-size: 2rem;
+    color: var(--primary);
+}
+
+
+.container__quant{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.quantities{
+    font-size: 1.5rem;
+    padding: 4px 7px;
+    border-radius: 50%;
+    background-color:hsla(18, 85%, 52%, 0.66);
+
+}

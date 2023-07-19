@@ -1,4 +1,8 @@
-import React from 'react'
+//styles
+import './Search.css';
+
+//components
+import React from 'react';
 
 function Search() {
   return (

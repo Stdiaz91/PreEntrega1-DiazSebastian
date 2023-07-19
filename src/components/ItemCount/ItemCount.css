@@ -1,0 +1,80 @@
+.container__buttons__shop{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+  
+    .buttons{
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+    }
+    
+    .plus{
+      background-color: var(--hover-img);
+      margin-right: 80px;
+      padding: 0.3rem 3rem;
+      font-weight: 600;
+      border-radius: 0.3rem;
+      transition: 0.2s ease;
+      font-size: 27px;
+    }
+    
+    .plus:hover{
+      cursor: pointer;
+      background-color: var(--hover);
+      color: var(--secondary);
+    }
+    
+    .subtract{
+      background-color: var(--hover-img);
+      margin-left: 80px;
+      padding: 0.3rem 3rem;
+      font-weight: 600;
+      border-radius: 0.3rem;
+      transition: 0.2s ease;
+      font-size: 27px;
+  
+    }
+    
+    .subtract:hover{
+      cursor: pointer;
+      background-color: var(--hover);
+      color: var(--secondary);
+    }
+
+    .container__count{
+        width: 60px;
+    }
+
+    .count{
+        font-size: 30px;
+        font-weight: 700;
+        padding: 10px;
+    }
+    .buy__now__{
+        width: 266px;
+        margin-top: 10px;
+        background-color: var(--secondary);
+        padding: 0.7rem 1rem;
+        border-radius: 0.3rem;
+        font-weight: 600;
+        transition: 0.2s ease;
+        border: 2px solid transparent;
+        color: var(--primary);
+      }
+    
+      .buy__now__:hover{
+        cursor: pointer;
+        background-color: var(--hover);
+        color: var(--secondary);
+        border: 2px solid var(--secondary);
+      }
+      
+      .buy__now__:active{
+        cursor: pointer;
+        transform: scale(1.1);
+        background-color: var(--hover);
+        color: var(--secondary);
+      }
+      

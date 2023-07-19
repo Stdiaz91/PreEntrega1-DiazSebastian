@@ -1,0 +1,16 @@
+.breadcrumb-item a{
+    color: var(--fonts);
+}
+
+.breadcrumb-item a:hover{
+    color: var(--secondary);
+
+}
+
+.breadcrumb-item+.breadcrumb-item::before{
+    color: var(--fonts);
+}
+
+.breadcrumb-item.active{
+    color: var(--secondary);
+}

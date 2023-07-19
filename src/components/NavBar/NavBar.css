@@ -1,0 +1,83 @@
+
+  .container__nav{
+    background-color: var(--secondary);
+    font-family: 'Exo 2', sans-serif;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  aside{
+    padding: 2rem;
+    padding-left: 0;
+    padding-right: 0;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+  }
+
+  nav{
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .menu{
+    display: flex;
+    flex-direction: column;
+    align-items:self-start ;
+    gap: 0.2rem;
+
+  }
+  
+  .item__menu{
+    display: flex;
+    flex-direction: row;
+    padding: 0.7rem;
+    cursor: pointer;
+  }
+  
+  .button__menu{
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+    color: var(--primary);
+    font-size: 1.1rem;
+    font-family: 'Exo 2', sans-serif;
+    font-weight: 500;
+  }
+  
+  .item__menu:hover{
+    background-color: var(--primary);
+    width: 100%;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+  }
+
+  .item__menu:hover img{
+    filter: invert(99%) sepia(89%) saturate(4414%) hue-rotate(321deg) brightness(102%) contrast(93%);
+  }
+
+  .item__menu:hover .button__menu{
+    color: var(--secondary);
+  }
+
+  a{
+    text-decoration: none;
+  }
+  
+  .gun__icons{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  ul{
+    list-style: none;
+    padding-left: 0;
+  }
+
+  
+  

@@ -1,0 +1,30 @@
+.brands{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+}
+
+.brands__title{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    font-size: 25px;
+    font-family: 'Exo 2', sans-serif;
+}
+
+.container__brands{
+    display: flex;
+}
+
+.brand__img{
+    width: 100px;
+    height: 80px;
+    padding: 5px;
+}
+
+.akkar{
+filter: invert(100%) sepia(0%) saturate(3192%) hue-rotate(36deg) brightness(92%) contrast(78%);
+}
+
+.winchester{
+filter: invert(100%) sepia(0%) saturate(3192%) hue-rotate(36deg) brightness(92%) contrast(78%);
+}

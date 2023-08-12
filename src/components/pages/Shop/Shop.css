@@ -1,0 +1,45 @@
+.container__totalprice{
+    display: flex;
+    flex-direction: column;
+}
+
+.total__price{
+    font-family: 'Exo 2', sans-serif;
+    font-size: 23px;
+    margin-top: 20px;
+    text-shadow: none;
+}
+
+.button_empty{
+    width: 200px;
+    padding: 10px;
+    background-color: var(--secondary);
+    border-radius: 5px;
+    font-weight: 600;
+    border: 1px solid var(--secondary);
+    transition: all .5s ease;
+    margin-bottom: 15px;
+}
+
+.bi.bi-trash3{
+    font-size: 20px;
+}
+
+.button_empty:hover{
+    background-color: var(--primary);
+    border: 1px solid var(--secondary);
+    color: var(--secondary);
+}
+
+.button_empty:active{
+    transform: scale(1.2);
+}
+
+.trash{
+    text-align: center;
+}
+
+.bi.bi-trash3:hover{
+    cursor: pointer;
+    color: var(--secondary);
+}

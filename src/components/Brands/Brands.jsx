@@ -22,21 +22,21 @@ function Brands() {
         <div className='container__brands'>
             <div className='row__a'>
                 <img src={akkar} alt="akkar" className='brand__img akkar'/>
-                <img src={bersa} alt="bersa" className='brand__img'/>
-                <img src={colt} alt="colt" className='brand__img'/>
+                <img src={bersa} alt="bersa" className='brand__img bersa'/>
+                <img src={colt} alt="colt" className='brand__img colt'/>
             </div>
             <div className='row__b'>
-                <img src={glock} alt="glock" className='brand__img'/>
+                <img src={glock} alt="glock" className='brand__img glock'/>
                 <img src={hatsan} alt="hatsan" className='brand__img'/>
                 <img src={mossberg} alt="mossberg" className='brand__img'/>
             </div>
             <div className='row__c'>
                 <img src={ruger} alt="ruger" className='brand__img'/>
-                <img src={wilson} alt="wilson-combat" className='brand__img'/>
-                <img src={smith} alt="smith-wesson" className='brand__img'/>
+                <img src={wilson} alt="wilson-combat" className='brand__img wilson'/>
+                <img src={smith} alt="smith-wesson" className='brand__img smith'/>
             </div>
             <div className='row__d'>
-                <img src={taurus} alt="taurus" className='brand__img'/>
+                <img src={taurus} alt="taurus" className='brand__img taurus'/>
                 <img src={winchester} alt="winchester" className='brand__img winchester'/>
                 <img src={marlin} alt="marlin" className='brand__img'/>
             </div>

@@ -52,7 +52,7 @@
         font-weight: 700;
         padding: 10px;
     }
-    .buy__now__{
+    .buy__now__, .add__cart{
         width: 266px;
         margin-top: 10px;
         background-color: var(--secondary);
@@ -64,14 +64,14 @@
         color: var(--primary);
       }
     
-      .buy__now__:hover{
+      .buy__now__:hover, .add__cart:hover{
         cursor: pointer;
         background-color: var(--hover);
         color: var(--secondary);
         border: 2px solid var(--secondary);
       }
       
-      .buy__now__:active{
+      .buy__now__:active, .add__cart:active{
         cursor: pointer;
         transform: scale(1.1);
         background-color: var(--hover);

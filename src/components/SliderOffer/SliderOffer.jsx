@@ -34,7 +34,7 @@ function ControlledCarousel() {
         <Carousel.Caption>
           <h4 className='h4__slide'>OFERTA ESPECIAL</h4>
           <h3 className='h3__slide'>AHORRA 20% EN UNA BERSA THUNDER9</h3>
-          <Link to={`/item/17`} className='btn__slider'>¡COMPRALA AHORA!</Link>
+          <Link to={`/item/U57chA5BfH1AetLPM5cb`} className='btn__slider'>¡COMPRALA AHORA!</Link>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -47,7 +47,7 @@ function ControlledCarousel() {
         <Carousel.Caption>
             <h4 className='h4__slide'>MEGA OFERTA</h4>
           <h3 className='h3__slide'>APROVECHA 25% OFF EN TAURUS GX4</h3>
-          <Link to={`/item/102`} className='btn__slider'>¡COMPRALA AHORA!</Link>
+          <Link to={`/item/jcucXDDI62n4YHv1RXFB`} className='btn__slider'>¡COMPRALA AHORA!</Link>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -60,7 +60,7 @@ function ControlledCarousel() {
         <Carousel.Caption>
         <h4 className='h4__slide'>ON SALE</h4>
           <h3 className='h3__slide'>25% OFF! ESCOPETA WC</h3>
-          <Link to={`/item/101`} className='btn__slider'>¡COMPRALA AHORA!</Link>
+          <Link to={`/item/KULsC6jQvZQ9bvhY6FC7`} className='btn__slider'>¡COMPRALA AHORA!</Link>
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

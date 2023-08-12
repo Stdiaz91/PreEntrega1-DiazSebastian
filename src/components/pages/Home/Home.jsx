@@ -9,14 +9,13 @@ import Carousel from '../../Carousel/Carousel';
 import Brands from '../../Brands/Brands';
 import BannerFooter from '../../BannerFooter/BannerFooter';
 import BannerContact from '../../BannerContact/BannerContact';
-import Search from '../../Search/Search';
 
 const Home = () => {
 
   return (
     <main>
       <div className='container__main__search'>
-        <h2 className='main__title'>Calidad y excelencia en armamentos desde 1991</h2>< Search /> 
+        <h2 className='main__title'>Calidad y excelencia en armamentos desde 1991</h2>
       </div>
       <div className='container__slider__offer'>
         < SliderOffer />

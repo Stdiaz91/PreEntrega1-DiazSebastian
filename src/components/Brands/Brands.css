@@ -21,10 +21,7 @@
     padding: 5px;
 }
 
-.akkar{
-filter: invert(100%) sepia(0%) saturate(3192%) hue-rotate(36deg) brightness(92%) contrast(78%);
+.akkar, .winchester, .bersa, .colt, .glock, .wilson, .smith, .taurus{
+    filter: invert(87%) sepia(11%) saturate(34%) hue-rotate(314deg) brightness(96%) contrast(93%);
 }
 
-.winchester{
-filter: invert(100%) sepia(0%) saturate(3192%) hue-rotate(36deg) brightness(92%) contrast(78%);
-}

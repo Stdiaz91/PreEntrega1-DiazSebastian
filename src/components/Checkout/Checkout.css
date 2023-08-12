@@ -1,0 +1,130 @@
+.form__buy{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text__buy{
+    font-size: 18px;
+}
+
+.text__buy span{
+    font-weight: 600;
+    color: var(--secondary);
+}
+
+.container__user{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid var(--secondary);
+    border-radius: 10px;
+    width: 50%;
+    background-color: #26272b;
+    margin-bottom: 25px;
+}
+
+.supporting__title{
+    font-size: 23px;
+    text-align: center;
+}
+
+.div__user{
+    display: flex;
+    flex-direction: column;
+}
+
+.note{
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+.container__send{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid var(--secondary);
+    border-radius: 10px;
+    width: 50%;
+    background-color: #26272b;
+}
+
+.container__send__2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.__send__ h3{
+    margin-right: 35px;
+}
+
+.container__dates{
+    display: flex;
+    flex-direction: column;
+}
+
+.select__1{
+    margin-bottom: 40px;
+}
+
+.select__2{
+    margin-bottom: 20px;
+}
+
+.select__1, .select__2{
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid var(--font-footer);
+}
+
+.card__{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid var(--secondary);
+    border-radius: 10px;
+    width: 50%;
+    background-color: #26272b;
+    margin-top: 25px;
+}
+
+.container__expiry-cvc{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.payment__title{
+    font-size: 23px;
+    text-align: center;
+    font-family: 'Exo 2', sans-serif;
+    color: var(--fonts);
+    margin-top: 2rem;
+    margin-bottom: 20px;
+}
+
+.inputs_{
+    margin: 20px 0;
+    width: 180px;
+    border-bottom: 2px solid #fff;
+    padding: 10px;
+    border-radius: 5px;
+    border: 3px solid var(--font-footer);
+}
+
+.note_{
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.submit{
+    margin-top: 30px;
+}

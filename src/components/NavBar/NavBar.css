@@ -38,6 +38,14 @@
     padding: 0.7rem;
     cursor: pointer;
   }
+
+  .item__menu_{
+    display: flex;
+    flex-direction: row;
+    padding: 0.7rem;
+    cursor: pointer;
+  }
+
   
   .button__menu{
     background-color: transparent;
@@ -79,5 +87,3 @@
     padding-left: 0;
   }
 
-  
-  

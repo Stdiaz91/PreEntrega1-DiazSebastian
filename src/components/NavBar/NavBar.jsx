@@ -50,7 +50,7 @@ function NavBar() {
                       <img src={ carabine } className='gun__icons' alt="carabina" onClick={()=> navi('/productos/carabinas')}/>
                       <Link to='/productos/carabinas' className='button__menu'>Carabinas</Link>
                     </li>
-                    <CartWidget />
+                      <CartWidget />
                 </ul>
             </nav>
             < Footer />

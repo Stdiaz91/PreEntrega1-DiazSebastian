@@ -1,20 +1,27 @@
 //style
 import './ItemCount.css';
 
-//components
-import React, { useState } from 'react'
+import Swal from 'sweetalert2';
 
-const ItemCount = ({item}) => {
-    const [count, setCount] = useState(1);
 
-    const handleSubtract = () => {
-        count > 1 && setCount(count - 1);
-    };
+const ItemCount = ({ count, handlePlus, handleSubtract, handleAddCart }) => {
+    const showAlert = () =>{
+        Swal.fire({
+          position: 'top-end',
+          icon: 'success',
+          title: 'Se agregaron productos al carrito',
+          showConfirmButton: false,
+          timer: 2000,
+          background: '#33363d',
+          color: '#f6cd46'
+        })
+      };
 
-    const handlePlus = () => {
-        count < item.available && setCount(count + 1);
-    };
-
+      function executeFunctions() {
+        handleAddCart();
+        showAlert();
+      }
+    
   return (
     <div className='container__buttons__shop'>
         <div className='buttons'>
@@ -24,16 +31,12 @@ const ItemCount = ({item}) => {
             </div>
             <button className='plus' onClick={handlePlus}>+</button>
         </div>
-        <div className='shop'>
-            <button className='buy__now__'>AGREGAR AL CARRITO</button>
-        </div>
 
         <div className='shop'>
-            <button className='buy__now__'>COMPRAR AHORA</button>
+            <button className='add__cart' onClick={executeFunctions}>AGREGAR AL CARRITO</button>
         </div>
     </div>
+  );
+};
 
-  )
-}
-
-export default ItemCount
+export default ItemCount;

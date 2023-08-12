@@ -4,8 +4,6 @@ import './Items.css';
 //hook
 import { Link } from 'react-router-dom';
 
-
-
 function Item ({ product }) {
     
     return (

@@ -41,34 +41,34 @@
   color: var(--cart-empty);
 }
 
-  .buy__now{
-    background-color: var(--secondary);
-    padding: 0.6rem;
-    border-radius: 0.3rem;
-    font-weight: 600;
-    transition: 0.2s ease;
-    border: 2px solid transparent;
-    color: var(--primary);
-  }
+.buy__now{
+  background-color: var(--secondary);
+  padding: 0.6rem;
+  border-radius: 0.3rem;
+  font-weight: 600;
+  transition: 0.2s ease;
+  border: 2px solid transparent;
+  color: var(--primary);
+}
   
-  .buy__now:hover{
-    cursor: pointer;
-    background-color: var(--hover);
-    color: var(--secondary);
-    border: 2px solid var(--secondary);
-  }
+.buy__now:hover{
+  cursor: pointer;
+  background-color: var(--hover);
+  color: var(--secondary);
+  border: 2px solid var(--secondary);
+}
   
-  .buy__now:active{
-    cursor: pointer;
-    transform: scale(1.1);
-    background-color: var(--hover);
-    color: var(--secondary);
-  }
+.buy__now:active{
+  cursor: pointer;
+  transform: scale(1.1);
+  background-color: var(--hover);
+  color: var(--secondary);
+}
 
 
-  .container__descriptions{
-    margin-top: 20px;
-  }
+.container__descriptions{
+  margin-top: 20px;
+}
 
 .description__{
   text-align: center;

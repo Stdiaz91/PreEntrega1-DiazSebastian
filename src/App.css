@@ -17,8 +17,8 @@
   --font-footer: #6d6d6c;
   --hover: #47494e;
   --hover-img: #f5f1f1;
-  --cart-full: #61e708;
-  --cart-empty: #ed5a1b;
+  --cart-full: hsla(96, 93%, 47%, 0.8);
+  --cart-empty: hsla(18, 86%, 55%, 0.786);
 }
 
 body{
